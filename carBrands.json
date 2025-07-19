@@ -1854,5 +1854,1076 @@
         ]
       }
     ]
+  },
+  {
+    "brand": "Datsun",
+    "models": [
+      {
+        "name": "240Z",
+        "generations": [{ "name": "S30", "yearFrom": 1969, "yearTo": 1978 }]
+      },
+      {
+        "name": "280ZX",
+        "generations": [{ "name": "S130", "yearFrom": 1978, "yearTo": 1983 }]
+      },
+      {
+        "name": "on-DO",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2014, "yearTo": null }
+        ]
+      },
+      {
+        "name": "mi-DO",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2014, "yearTo": null }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Eicher",
+    "models": [
+      {
+        "name": "Pro 2000 Series",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2000, "yearTo": null }
+        ]
+      },
+      {
+        "name": "Pro 3000 Series",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2010, "yearTo": null }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Hanomag",
+    "models": [
+      {
+        "name": "Rekord",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 1931, "yearTo": 1935 },
+          { "name": "Second Gen", "yearFrom": 1935, "yearTo": 1939 }
+        ]
+      },
+      {
+        "name": "Henschel",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 1960, "yearTo": 1969 }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Hongqi",
+    "models": [
+      {
+        "name": "H5",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2018, "yearTo": null }
+        ]
+      },
+      {
+        "name": "H7",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2012, "yearTo": null }
+        ]
+      },
+      {
+        "name": "H9",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2020, "yearTo": null }
+        ]
+      },
+      {
+        "name": "E-HS9",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2020, "yearTo": null }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Hongqi",
+    "models": [
+      {
+        "name": "H5",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2018, "yearTo": null }
+        ]
+      },
+      {
+        "name": "H7",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2012, "yearTo": null }
+        ]
+      },
+      {
+        "name": "H9",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2020, "yearTo": null }
+        ]
+      },
+      {
+        "name": "E-HS9",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2020, "yearTo": null }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Isuzu",
+    "models": [
+      {
+        "name": "D-Max",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2002, "yearTo": 2007 },
+          { "name": "Second Gen", "yearFrom": 2007, "yearTo": 2012 },
+          { "name": "Third Gen", "yearFrom": 2012, "yearTo": 2019 },
+          { "name": "Fourth Gen", "yearFrom": 2019, "yearTo": null }
+        ]
+      },
+      {
+        "name": "Trooper",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 1981, "yearTo": 1991 },
+          { "name": "Second Gen", "yearFrom": 1991, "yearTo": 2002 }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Iveco",
+    "models": [
+      {
+        "name": "Daily",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 1978, "yearTo": 1990 },
+          { "name": "Second Gen", "yearFrom": 1990, "yearTo": 2000 },
+          { "name": "Third Gen", "yearFrom": 2000, "yearTo": 2006 },
+          { "name": "Fourth Gen", "yearFrom": 2006, "yearTo": 2014 },
+          { "name": "Fifth Gen", "yearFrom": 2014, "yearTo": null }
+        ]
+      },
+      {
+        "name": "Stralis",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2002, "yearTo": 2007 },
+          { "name": "Second Gen", "yearFrom": 2007, "yearTo": 2013 },
+          { "name": "Third Gen", "yearFrom": 2013, "yearTo": 2019 }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Jetour",
+    "models": [
+      {
+        "name": "X70",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2018, "yearTo": null }
+        ]
+      },
+      {
+        "name": "X90",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2019, "yearTo": null }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Jetta",
+    "models": [
+      {
+        "name": "VA3",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2019, "yearTo": null }
+        ]
+      },
+      {
+        "name": "VS5",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2019, "yearTo": null }
+        ]
+      },
+      {
+        "name": "VS7",
+        "generations": [
+          { "name": "First Gen", "yearFrom": 2020, "yearTo": null }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "John Deere",
+    "models": [
+      {
+        "name": "2R Series",
+        "generations": []
+      },
+      {
+        "name": "5E Series",
+        "generations": []
+      },
+      {
+        "name": "5M Series",
+        "generations": []
+      },
+      {
+        "name": "6M Series",
+        "generations": []
+      },
+      {
+        "name": "6R Series",
+        "generations": []
+      },
+      {
+        "name": "7R Series",
+        "generations": [
+          { "name": "7R 230", "yearFrom": null, "yearTo": null },
+          { "name": "7R 250", "yearFrom": null, "yearTo": null },
+          { "name": "7R 270", "yearFrom": null, "yearTo": null }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Kogel",
+    "models": [
+      {
+        "name": "Cargo",
+        "generations": []
+      },
+      {
+        "name": "Cool",
+        "generations": []
+      },
+      {
+        "name": "Tipper",
+        "generations": []
+      },
+      {
+        "name": "Tankplex",
+        "generations": []
+      },
+      {
+        "name": "Triplex",
+        "generations": []
+      },
+      {
+        "name": "Duplex",
+        "generations": []
+      }
+    ]
+  },
+  {
+    "brand": "Komatsu",
+    "models": [
+      {
+        "name": "PC30MR‑5",
+        "generations": []
+      },
+      {
+        "name": "PC35MR‑5",
+        "generations": []
+      },
+      {
+        "name": "PC45MR‑5",
+        "generations": []
+      },
+      {
+        "name": "PC55MR‑5",
+        "generations": []
+      },
+      {
+        "name": "PC78US‑5",
+        "generations": []
+      }
+    ]
+  },
+  {
+    "brand": "Krone",
+    "models": [
+      {
+        "name": "Profi Liner",
+        "generations": []
+      },
+      {
+        "name": "AX forage wagon",
+        "generations": []
+      },
+      {
+        "name": "RX forage wagon",
+        "generations": []
+      },
+      {
+        "name": "ZX forage wagon",
+        "generations": []
+      },
+      {
+        "name": "TX forage wagon",
+        "generations": []
+      },
+      {
+        "name": "GX forage wagon",
+        "generations": []
+      }
+    ]
+  },
+  {
+    "brand": "Lancia",
+    "models": [
+      {
+        "name": "Ypsilon",
+        "generations": [{ "name": "3rd gen", "yearFrom": 2003, "yearTo": null }]
+      },
+      {
+        "name": "Delta",
+        "generations": [
+          { "name": "I", "yearFrom": 1979, "yearTo": 1994 },
+          { "name": "II", "yearFrom": 1993, "yearTo": 1999 },
+          { "name": "III", "yearFrom": 2008, "yearTo": 2014 }
+        ]
+      },
+      {
+        "name": "Flavia",
+        "generations": []
+      },
+      {
+        "name": "Fulvia",
+        "generations": []
+      },
+      {
+        "name": "Beta",
+        "generations": []
+      },
+      {
+        "name": "Gamma",
+        "generations": []
+      },
+      {
+        "name": "2000",
+        "generations": []
+      }
+    ]
+  },
+  {
+    "brand": "LDV",
+    "models": [
+      { "name": "Convoy", "generations": [] },
+      { "name": "Cub", "generations": [] },
+      { "name": "Maxus", "generations": [] },
+      { "name": "Pilot", "generations": [] },
+      { "name": "T60", "generations": [] },
+      { "name": "T60 MAX", "generations": [] },
+      { "name": "D90 SUV", "generations": [] },
+      { "name": "eT60 UTE", "generations": [] },
+      { "name": "MIFA 9", "generations": [] },
+      { "name": "Deliver 7", "generations": [] },
+      { "name": "eDeliver 7", "generations": [] },
+      { "name": "Deliver 9", "generations": [] },
+      { "name": "eDeliver 9", "generations": [] }
+    ]
+  },
+  {
+    "brand": "Lifan",
+    "models": [
+      { "name": "320", "generations": [] },
+      { "name": "330", "generations": [] },
+      { "name": "520", "generations": [] },
+      { "name": "530", "generations": [] },
+      { "name": "620", "generations": [] },
+      { "name": "630", "generations": [] },
+      { "name": "650", "generations": [] },
+      { "name": "720", "generations": [] },
+      { "name": "820", "generations": [] },
+      { "name": "Foison", "generations": [] },
+      { "name": "Lotto", "generations": [] },
+      { "name": "Maiwei", "generations": [] }
+    ]
+  },
+  {
+    "brand": "FAW",
+    "models": [
+      {
+        "name": "Bestune M9",
+        "generations": [{ "name": "1st gen", "yearFrom": 2023, "yearTo": null }]
+      },
+      {
+        "name": "Bestune T55",
+        "generations": [{ "name": "1st gen", "yearFrom": 2021, "yearTo": null }]
+      },
+      {
+        "name": "Bestune T77",
+        "generations": [{ "name": "1st gen", "yearFrom": 2018, "yearTo": null }]
+      },
+      {
+        "name": "Bestune T99",
+        "generations": [{ "name": "1st gen", "yearFrom": 2019, "yearTo": null }]
+      },
+      {
+        "name": "Besturn B50",
+        "generations": [{ "name": "1st gen", "yearFrom": 2012, "yearTo": null }]
+      },
+      {
+        "name": "Besturn B70",
+        "generations": [{ "name": "4th gen", "yearFrom": 2020, "yearTo": null }]
+      },
+      {
+        "name": "Besturn X40",
+        "generations": [{ "name": "1st gen", "yearFrom": 2016, "yearTo": null }]
+      },
+      {
+        "name": "Besturn X80",
+        "generations": [{ "name": "1st gen", "yearFrom": 2016, "yearTo": null }]
+      }
+    ]
+  },
+  {
+    "brand": "Lincoln",
+    "models": [
+      {
+        "name": "Aviator",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2003, "yearTo": 2005 },
+          { "name": "2nd gen", "yearFrom": 2020, "yearTo": null }
+        ]
+      },
+      {
+        "name": "Blackwood",
+        "generations": [{ "name": "1st gen", "yearFrom": 2002, "yearTo": 2003 }]
+      },
+      {
+        "name": "Continental",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1961, "yearTo": 1969 },
+          { "name": "2nd gen", "yearFrom": 1970, "yearTo": 1979 },
+          { "name": "3rd gen", "yearFrom": 1980, "yearTo": 1987 },
+          { "name": "4th gen", "yearFrom": 1988, "yearTo": 1994 },
+          { "name": "5th gen", "yearFrom": 1995, "yearTo": 2002 },
+          { "name": "6th gen", "yearFrom": 2017, "yearTo": 2020 }
+        ]
+      },
+      {
+        "name": "Corsair",
+        "generations": [{ "name": "1st gen", "yearFrom": 2020, "yearTo": null }]
+      },
+      {
+        "name": "LS",
+        "generations": [{ "name": "1st gen", "yearFrom": 2000, "yearTo": 2006 }]
+      },
+      {
+        "name": "Mark III",
+        "generations": [{ "name": "1st gen", "yearFrom": 1969, "yearTo": 1971 }]
+      },
+      {
+        "name": "Mark IV",
+        "generations": [{ "name": "1st gen", "yearFrom": 1972, "yearTo": 1976 }]
+      },
+      {
+        "name": "Mark V",
+        "generations": [{ "name": "1st gen", "yearFrom": 1977, "yearTo": 1979 }]
+      },
+      {
+        "name": "Mark VI",
+        "generations": [{ "name": "1st gen", "yearFrom": 1980, "yearTo": 1983 }]
+      },
+      {
+        "name": "Mark VII",
+        "generations": [{ "name": "1st gen", "yearFrom": 1984, "yearTo": 1992 }]
+      },
+      {
+        "name": "Mark VIII",
+        "generations": [{ "name": "1st gen", "yearFrom": 1993, "yearTo": 1998 }]
+      },
+      {
+        "name": "Mark LT",
+        "generations": [{ "name": "1st gen", "yearFrom": 2006, "yearTo": 2008 }]
+      },
+      {
+        "name": "MKC",
+        "generations": [{ "name": "1st gen", "yearFrom": 2015, "yearTo": 2019 }]
+      },
+      {
+        "name": "MKS",
+        "generations": [{ "name": "1st gen", "yearFrom": 2009, "yearTo": 2016 }]
+      },
+      {
+        "name": "MKT",
+        "generations": [{ "name": "1st gen", "yearFrom": 2010, "yearTo": 2019 }]
+      },
+      {
+        "name": "MKX",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2007, "yearTo": 2015 },
+          { "name": "2nd gen", "yearFrom": 2016, "yearTo": 2018 }
+        ]
+      },
+      {
+        "name": "MKZ",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2007, "yearTo": 2012 },
+          { "name": "2nd gen", "yearFrom": 2013, "yearTo": 2020 }
+        ]
+      },
+      {
+        "name": "Nautilus",
+        "generations": [{ "name": "1st gen", "yearFrom": 2019, "yearTo": null }]
+      },
+      {
+        "name": "Navigator",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1998, "yearTo": 2002 },
+          { "name": "2nd gen", "yearFrom": 2003, "yearTo": 2006 },
+          { "name": "3rd gen", "yearFrom": 2007, "yearTo": 2014 },
+          { "name": "4th gen", "yearFrom": 2015, "yearTo": 2017 },
+          { "name": "5th gen", "yearFrom": 2018, "yearTo": null }
+        ]
+      },
+      {
+        "name": "Premiere",
+        "generations": [{ "name": "1st gen", "yearFrom": 1956, "yearTo": 1957 }]
+      },
+      {
+        "name": "Town Car",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1981, "yearTo": 1989 },
+          { "name": "2nd gen", "yearFrom": 1990, "yearTo": 1997 },
+          { "name": "3rd gen", "yearFrom": 1998, "yearTo": 2011 }
+        ]
+      },
+      {
+        "name": "Versailles",
+        "generations": [{ "name": "1st gen", "yearFrom": 1977, "yearTo": 1980 }]
+      },
+      {
+        "name": "Zephyr",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1936, "yearTo": 1942 },
+          { "name": "2nd gen", "yearFrom": 1946, "yearTo": 1948 },
+          { "name": "3rd gen", "yearFrom": 2006, "yearTo": 2006 },
+          { "name": "4th gen", "yearFrom": 2022, "yearTo": null }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Li Auto",
+    "models": [
+      {
+        "name": "Li ONE",
+        "generations": [{ "name": "1st gen", "yearFrom": 2019, "yearTo": 2022 }]
+      },
+      {
+        "name": "Li L6",
+        "generations": [{ "name": "1st gen", "yearFrom": 2024, "yearTo": null }]
+      },
+      {
+        "name": "Li L7",
+        "generations": [{ "name": "1st gen", "yearFrom": 2023, "yearTo": null }]
+      },
+      {
+        "name": "Li L8",
+        "generations": [{ "name": "1st gen", "yearFrom": 2022, "yearTo": null }]
+      },
+      {
+        "name": "Li L9",
+        "generations": [{ "name": "1st gen", "yearFrom": 2022, "yearTo": null }]
+      },
+      {
+        "name": "Li MEGA",
+        "generations": [{ "name": "1st gen", "yearFrom": 2024, "yearTo": null }]
+      }
+    ]
+  },
+  {
+    "brand": "MAN",
+    "models": [
+      {
+        "name": "TGA",
+        "generations": [{ "name": "1st gen", "yearFrom": 2000, "yearTo": 2013 }]
+      },
+      {
+        "name": "TGE",
+        "generations": [{ "name": "1st gen", "yearFrom": 2017, "yearTo": null }]
+      },
+      {
+        "name": "TGL",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2005, "yearTo": 2020 },
+          { "name": "2nd gen", "yearFrom": 2020, "yearTo": null }
+        ]
+      },
+      {
+        "name": "TGM",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2005, "yearTo": 2020 },
+          { "name": "2nd gen", "yearFrom": 2020, "yearTo": null }
+        ]
+      },
+      {
+        "name": "TGS",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2007, "yearTo": 2020 },
+          { "name": "2nd gen", "yearFrom": 2020, "yearTo": null }
+        ]
+      },
+      {
+        "name": "TGX",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2007, "yearTo": 2020 },
+          { "name": "2nd gen", "yearFrom": 2020, "yearTo": null }
+        ]
+      },
+      {
+        "name": "eTGE",
+        "generations": [{ "name": "1st gen", "yearFrom": 2018, "yearTo": null }]
+      },
+      {
+        "name": "eTGL",
+        "generations": [{ "name": "1st gen", "yearFrom": 2021, "yearTo": null }]
+      },
+      {
+        "name": "eTGM",
+        "generations": [{ "name": "1st gen", "yearFrom": 2021, "yearTo": null }]
+      },
+      {
+        "name": "Lion's City",
+        "generations": [{ "name": "1st gen", "yearFrom": 2018, "yearTo": null }]
+      },
+      {
+        "name": "Lion's Coach",
+        "generations": [{ "name": "1st gen", "yearFrom": 2017, "yearTo": null }]
+      },
+      {
+        "name": "Lion's Intercity",
+        "generations": [{ "name": "1st gen", "yearFrom": 2017, "yearTo": null }]
+      },
+      {
+        "name": "Lion's Regio",
+        "generations": [{ "name": "1st gen", "yearFrom": 2019, "yearTo": null }]
+      }
+    ]
+  },
+  {
+    "brand": "Maserati",
+    "models": [
+      {
+        "name": "3200 GT",
+        "generations": [{ "name": "1st gen", "yearFrom": 1998, "yearTo": 2002 }]
+      },
+      {
+        "name": "4200 GT",
+        "generations": [{ "name": "1st gen", "yearFrom": 2001, "yearTo": 2007 }]
+      },
+      {
+        "name": "Biturbo",
+        "generations": [{ "name": "1st gen", "yearFrom": 1981, "yearTo": 1994 }]
+      },
+      {
+        "name": "Coupe",
+        "generations": [{ "name": "1st gen", "yearFrom": 2001, "yearTo": 2007 }]
+      },
+      {
+        "name": "Ghibli",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1967, "yearTo": 1973 },
+          { "name": "2nd gen", "yearFrom": 1992, "yearTo": 1997 },
+          { "name": "3rd gen", "yearFrom": 2013, "yearTo": 2023 },
+          { "name": "4th gen", "yearFrom": 2024, "yearTo": null }
+        ]
+      },
+      {
+        "name": "GranCabrio",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2010, "yearTo": 2019 },
+          { "name": "2nd gen", "yearFrom": 2023, "yearTo": null }
+        ]
+      },
+      {
+        "name": "GranSport",
+        "generations": [{ "name": "1st gen", "yearFrom": 2004, "yearTo": 2007 }]
+      },
+      {
+        "name": "GranTurismo",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2007, "yearTo": 2019 },
+          { "name": "2nd gen", "yearFrom": 2023, "yearTo": null }
+        ]
+      },
+      {
+        "name": "Grecale",
+        "generations": [{ "name": "1st gen", "yearFrom": 2022, "yearTo": null }]
+      },
+      {
+        "name": "Levante",
+        "generations": [{ "name": "1st gen", "yearFrom": 2016, "yearTo": null }]
+      },
+      {
+        "name": "MC12",
+        "generations": [{ "name": "1st gen", "yearFrom": 2004, "yearTo": 2005 }]
+      },
+      {
+        "name": "MC20",
+        "generations": [{ "name": "1st gen", "yearFrom": 2020, "yearTo": null }]
+      },
+      {
+        "name": "Quattroporte",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1963, "yearTo": 1970 },
+          { "name": "2nd gen", "yearFrom": 1974, "yearTo": 1978 },
+          { "name": "3rd gen", "yearFrom": 1979, "yearTo": 1990 },
+          { "name": "4th gen", "yearFrom": 1994, "yearTo": 2001 },
+          { "name": "5th gen", "yearFrom": 2004, "yearTo": 2012 },
+          { "name": "6th gen", "yearFrom": 2013, "yearTo": 2024 },
+          { "name": "7th gen", "yearFrom": 2024, "yearTo": null }
+        ]
+      },
+      {
+        "name": "Shamal",
+        "generations": [{ "name": "1st gen", "yearFrom": 1990, "yearTo": 1996 }]
+      },
+      {
+        "name": "Spyder",
+        "generations": [{ "name": "1st gen", "yearFrom": 2001, "yearTo": 2005 }]
+      }
+    ]
+  },
+  {
+    "brand": "Mercury",
+    "models": [
+      {
+        "name": "Bobcat",
+        "generations": [{ "name": "1st gen", "yearFrom": 1975, "yearTo": 1980 }]
+      },
+      {
+        "name": "Capri",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1970, "yearTo": 1978 },
+          { "name": "2nd gen", "yearFrom": 1979, "yearTo": 1986 },
+          { "name": "3rd gen", "yearFrom": 1991, "yearTo": 1994 }
+        ]
+      },
+      {
+        "name": "Colony Park",
+        "generations": [{ "name": "1st gen", "yearFrom": 1957, "yearTo": 1991 }]
+      },
+      {
+        "name": "Comet",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1960, "yearTo": 1969 },
+          { "name": "2nd gen", "yearFrom": 1971, "yearTo": 1977 }
+        ]
+      },
+      {
+        "name": "Cougar",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1967, "yearTo": 1970 },
+          { "name": "2nd gen", "yearFrom": 1971, "yearTo": 1973 },
+          { "name": "3rd gen", "yearFrom": 1974, "yearTo": 1978 },
+          { "name": "4th gen", "yearFrom": 1979, "yearTo": 1982 },
+          { "name": "5th gen", "yearFrom": 1983, "yearTo": 1988 },
+          { "name": "6th gen", "yearFrom": 1989, "yearTo": 1997 },
+          { "name": "7th gen", "yearFrom": 1999, "yearTo": 2002 }
+        ]
+      },
+      {
+        "name": "Cyclone",
+        "generations": [{ "name": "1st gen", "yearFrom": 1964, "yearTo": 1971 }]
+      },
+      {
+        "name": "Grand Marquis",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1983, "yearTo": 1991 },
+          { "name": "2nd gen", "yearFrom": 1992, "yearTo": 2011 }
+        ]
+      },
+      {
+        "name": "Lynx",
+        "generations": [{ "name": "1st gen", "yearFrom": 1981, "yearTo": 1987 }]
+      },
+      {
+        "name": "Marauder",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1963, "yearTo": 1965 },
+          { "name": "2nd gen", "yearFrom": 2003, "yearTo": 2004 }
+        ]
+      },
+      {
+        "name": "Mariner",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2005, "yearTo": 2007 },
+          { "name": "2nd gen", "yearFrom": 2008, "yearTo": 2011 }
+        ]
+      },
+      {
+        "name": "Marquis",
+        "generations": [{ "name": "1st gen", "yearFrom": 1967, "yearTo": 1982 }]
+      },
+      {
+        "name": "Milan",
+        "generations": [{ "name": "1st gen", "yearFrom": 2006, "yearTo": 2011 }]
+      },
+      {
+        "name": "Monarch",
+        "generations": [{ "name": "1st gen", "yearFrom": 1975, "yearTo": 1980 }]
+      },
+      {
+        "name": "Montego",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1968, "yearTo": 1976 },
+          { "name": "2nd gen", "yearFrom": 2005, "yearTo": 2007 }
+        ]
+      },
+      {
+        "name": "Monterey",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1952, "yearTo": 1974 },
+          { "name": "2nd gen", "yearFrom": 2004, "yearTo": 2007 }
+        ]
+      },
+      {
+        "name": "Mountaineer",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1997, "yearTo": 2001 },
+          { "name": "2nd gen", "yearFrom": 2002, "yearTo": 2010 }
+        ]
+      },
+      {
+        "name": "Mystique",
+        "generations": [{ "name": "1st gen", "yearFrom": 1995, "yearTo": 2000 }]
+      },
+      {
+        "name": "Sable",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1986, "yearTo": 1991 },
+          { "name": "2nd gen", "yearFrom": 1992, "yearTo": 1995 },
+          { "name": "3rd gen", "yearFrom": 1996, "yearTo": 2005 },
+          { "name": "4th gen", "yearFrom": 2008, "yearTo": 2009 }
+        ]
+      },
+      {
+        "name": "Topaz",
+        "generations": [{ "name": "1st gen", "yearFrom": 1984, "yearTo": 1994 }]
+      },
+      {
+        "name": "Tracer",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1987, "yearTo": 1989 },
+          { "name": "2nd gen", "yearFrom": 1991, "yearTo": 1996 },
+          { "name": "3rd gen", "yearFrom": 1997, "yearTo": 1999 }
+        ]
+      },
+      {
+        "name": "Villager",
+        "generations": [{ "name": "1st gen", "yearFrom": 1993, "yearTo": 2002 }]
+      },
+      {
+        "name": "Zephyr",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1938, "yearTo": 1942 },
+          { "name": "2nd gen", "yearFrom": 1946, "yearTo": 1948 },
+          { "name": "3rd gen", "yearFrom": 1949, "yearTo": 1957 },
+          { "name": "4th gen", "yearFrom": 2006, "yearTo": 2006 }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "MG",
+    "models": [
+      {
+        "name": "3",
+        "generations": [{ "name": "1st gen", "yearFrom": 2021, "yearTo": null }]
+      },
+      {
+        "name": "4",
+        "generations": [{ "name": "1st gen", "yearFrom": 2023, "yearTo": null }]
+      },
+      {
+        "name": "5",
+        "generations": [{ "name": "1st gen", "yearFrom": 2022, "yearTo": null }]
+      },
+      {
+        "name": "6",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2010, "yearTo": 2020 },
+          { "name": "2nd gen", "yearFrom": 2021, "yearTo": null }
+        ]
+      },
+      {
+        "name": "7",
+        "generations": [{ "name": "1st gen", "yearFrom": 2023, "yearTo": null }]
+      },
+      {
+        "name": "EHS",
+        "generations": [{ "name": "1st gen", "yearFrom": 2020, "yearTo": null }]
+      },
+      {
+        "name": "F",
+        "generations": [{ "name": "1st gen", "yearFrom": 1995, "yearTo": 2002 }]
+      },
+      {
+        "name": "GS",
+        "generations": [{ "name": "1st gen", "yearFrom": 2016, "yearTo": 2023 }]
+      },
+      {
+        "name": "GT",
+        "generations": [{ "name": "1st gen", "yearFrom": 1995, "yearTo": 2005 }]
+      },
+      {
+        "name": "HS",
+        "generations": [{ "name": "1st gen", "yearFrom": 2019, "yearTo": null }]
+      },
+      {
+        "name": "Marvel R",
+        "generations": [{ "name": "1st gen", "yearFrom": 2021, "yearTo": null }]
+      },
+      {
+        "name": "Midget",
+        "generations": [{ "name": "1st gen", "yearFrom": 1961, "yearTo": 1979 }]
+      },
+      {
+        "name": "MGA",
+        "generations": [{ "name": "1st gen", "yearFrom": 1955, "yearTo": 1962 }]
+      },
+      {
+        "name": "MGB",
+        "generations": [{ "name": "1st gen", "yearFrom": 1962, "yearTo": 1980 }]
+      },
+      {
+        "name": "MGC",
+        "generations": [{ "name": "1st gen", "yearFrom": 1967, "yearTo": 1969 }]
+      },
+      {
+        "name": "RV8",
+        "generations": [{ "name": "1st gen", "yearFrom": 1992, "yearTo": 1995 }]
+      },
+      {
+        "name": "TF",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1953, "yearTo": 1955 },
+          { "name": "2nd gen", "yearFrom": 2002, "yearTo": 2005 },
+          { "name": "3rd gen", "yearFrom": 2011, "yearTo": 2016 }
+        ]
+      },
+      {
+        "name": "ZR",
+        "generations": [{ "name": "1st gen", "yearFrom": 2001, "yearTo": 2005 }]
+      },
+      {
+        "name": "ZS",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 2001, "yearTo": 2005 },
+          { "name": "2nd gen", "yearFrom": 2017, "yearTo": null }
+        ]
+      },
+      {
+        "name": "ZT",
+        "generations": [{ "name": "1st gen", "yearFrom": 2001, "yearTo": 2005 }]
+      }
+    ]
+  },
+  {
+    "brand": "Plymouth",
+    "models": [
+      {
+        "name": "Acclaim",
+        "generations": [{ "name": "1st gen", "yearFrom": 1989, "yearTo": 1995 }]
+      },
+      {
+        "name": "Arrow",
+        "generations": [{ "name": "1st gen", "yearFrom": 1976, "yearTo": 1980 }]
+      },
+      {
+        "name": "Barracuda",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1964, "yearTo": 1966 },
+          { "name": "2nd gen", "yearFrom": 1967, "yearTo": 1969 },
+          { "name": "3rd gen", "yearFrom": 1970, "yearTo": 1974 }
+        ]
+      },
+      {
+        "name": "Belvedere",
+        "generations": [{ "name": "1st gen", "yearFrom": 1954, "yearTo": 1970 }]
+      },
+      {
+        "name": "Breeze",
+        "generations": [{ "name": "1st gen", "yearFrom": 1996, "yearTo": 2000 }]
+      },
+      {
+        "name": "Caravelle",
+        "generations": [{ "name": "1st gen", "yearFrom": 1985, "yearTo": 1988 }]
+      },
+      {
+        "name": "Champ",
+        "generations": [{ "name": "1st gen", "yearFrom": 1979, "yearTo": 1982 }]
+      },
+      {
+        "name": "Colt",
+        "generations": [{ "name": "1st gen", "yearFrom": 1971, "yearTo": 1994 }]
+      },
+      {
+        "name": "Conquest",
+        "generations": [{ "name": "1st gen", "yearFrom": 1984, "yearTo": 1989 }]
+      },
+      {
+        "name": "Cuda",
+        "generations": [{ "name": "1st gen", "yearFrom": 1970, "yearTo": 1974 }]
+      },
+      {
+        "name": "Duster",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1970, "yearTo": 1976 },
+          { "name": "2nd gen", "yearFrom": 1985, "yearTo": 1987 }
+        ]
+      },
+      {
+        "name": "Expo",
+        "generations": [{ "name": "1st gen", "yearFrom": 1992, "yearTo": 1995 }]
+      },
+      {
+        "name": "Fury",
+        "generations": [{ "name": "1st gen", "yearFrom": 1956, "yearTo": 1989 }]
+      },
+      {
+        "name": "Gran Fury",
+        "generations": [{ "name": "1st gen", "yearFrom": 1975, "yearTo": 1989 }]
+      },
+      {
+        "name": "GTX",
+        "generations": [{ "name": "1st gen", "yearFrom": 1967, "yearTo": 1971 }]
+      },
+      {
+        "name": "Horizon",
+        "generations": [{ "name": "1st gen", "yearFrom": 1978, "yearTo": 1990 }]
+      },
+      {
+        "name": "Laser",
+        "generations": [{ "name": "1st gen", "yearFrom": 1990, "yearTo": 1994 }]
+      },
+      {
+        "name": "Neon",
+        "generations": [
+          { "name": "1st gen", "yearFrom": 1995, "yearTo": 1999 },
+          { "name": "2nd gen", "yearFrom": 2000, "yearTo": 2001 }
+        ]
+      },
+      {
+        "name": "Prowler",
+        "generations": [{ "name": "1st gen", "yearFrom": 1997, "yearTo": 2002 }]
+      },
+      {
+        "name": "Reliant",
+        "generations": [{ "name": "1st gen", "yearFrom": 1981, "yearTo": 1989 }]
+      },
+      {
+        "name": "Road Runner",
+        "generations": [{ "name": "1st gen", "yearFrom": 1968, "yearTo": 1980 }]
+      }
+    ]
   }
 ]
