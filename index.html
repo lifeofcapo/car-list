@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Brands & Parts API</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            padding: 40px 0;
+        }
+        
+        .header h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .card h2 {
+            color: #4a5568;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .endpoint {
+            background: #f7fafc;
+            border-left: 4px solid #667eea;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 0 8px 8px 0;
+        }
+        
+        .method {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        
+        .url {
+            font-family: 'Courier New', monospace;
+            background: #edf2f7;
+            padding: 8px 12px;
+            border-radius: 6px;
+            display: block;
+            margin: 10px 0;
+            word-break: break-all;
+        }
+        
+        .example {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 15px 0;
+            overflow-x: auto;
+        }
+        
+        .example pre {
+            white-space: pre-wrap;
+        }
+        
+        .feature {
+            display: flex;
+            align-items: center;
+            margin: 10px 0;
+        }
+        
+        .feature-icon {
+            background: #667eea;
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 15px;
+            font-weight: bold;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                grid-template-columns: 1fr;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚗 Car Brands & Parts API</h1>
+            <p>Полноценное API для работы с автомобильными брендами, моделями и запчастями</p>
+        </div>
+        
+        <div class="content">
+            <div class="card">
+                <h2>📊 Бренды и модели</h2>
+                
+                <div class="feature">
+                    <div class="feature-icon">1</div>
+                    <div>
+                        <strong>Полные данные</strong> - все бренды, модели, поколения
+                    </div>
+                </div>
+                
+                <div class="feature">
+                    <div class="feature-icon">2</div>
+                    <div>
+                        <strong>Годы выпуска</strong> - точные даты производства
+                    </div>
+                </div>
+                
+                <div class="endpoint">
+                    <span class="method">GET</span>
+                    <strong>Все данные о брендах</strong>
+                    <div class="url">https://yourusername.github.io/car-api/car-brands.json</div>
+                </div>
+                
+                <div class="example">
+                    <pre><code>// JavaScript
+fetch('https://yourusername.github.io/car-api/car-brands.json')
+  .then(response => response.json())
+  .then(data => {
+    console.log('Все бренды:', data);
+    
+    // Пример: получить все модели Nissan
+    const nissan = data.find(brand => brand.brand === "Nissan");
+    console.log('Модели Nissan:', nissan.models);
+  });</code></pre>
+                </div>
+            </div>
+            
+            <!-- Запчасти -->
+            <div class="card">
+                <h2>🔧 Запчасти</h2>
+                
+                <div class="feature">
+                    <div class="feature-icon">1</div>
+                    <div>
+                        <strong>Категории запчастей</strong> - двигатель, ходовая, электроника
+                    </div>
+                </div>
+                
+                <div class="feature">
+                    <div class="feature-icon">2</div>
+                    <div>
+                        <strong>Совместимость</strong> - подбор по моделям
+                    </div>
+                </div>
+                
+                <div class="endpoint">
+                    <span class="method">GET</span>
+                    <strong>Все данные о запчастях</strong>
+                    <div class="url">https://yourusername.github.io/car-api/car-parts.json</div>
+                </div>
+                
+                <div class="example">
+                    <pre><code>// JavaScript
+fetch('https://yourusername.github.io/car-api/car-parts.json')
+  .then(response => response.json())
+  .then(parts => {
+    console.log('Все запчасти:', parts);
+    
+    // Пример: найти запчасти для Audi
+    const audiParts = parts.filter(part => 
+      part.compatibleBrands.includes("Audi")
+    );
+    console.log('Запчасти Audi:', audiParts);
+  });</code></pre>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h2>💡 Примеры использования</h2>
+            
+            <div class="example">
+                <pre><code>// 1. Поиск моделей по бренду
+async function getBrandModels(brandName) {
+  const response = await fetch('https://yourusername.github.io/car-api/car-brands.json');
+  const brands = await response.json();
+  
+  const brand = brands.find(b => b.brand === brandName);
+  return brand ? brand.models : [];
+}
+
+// 2. Получить все поколения модели
+async function getModelGenerations(brandName, modelName) {
+  const response = await fetch('https://yourusername.github.io/car-api/car-brands.json');
+  const brands = await response.json();
+  
+  const brand = brands.find(b => b.brand === brandName);
+  if (!brand) return [];
+  
+  const model = brand.models.find(m => m.name === modelName);
+  return model ? model.generations : [];
+}
+
+// 3. Использование в React
+function CarModels() {
+  const [brands, setBrands] = useState([]);
+  
+  useEffect(() => {
+    fetch('https://yourusername.github.io/car-api/car-brands.json')
+      .then(res => res.json())
+      .then(setBrands);
+  }, []);
+  
+  return (
+    <div>
+      {brands.map(brand => (
+        <div key={brand.brand}>
+          <h3>{brand.brand}</h3>
+          {brand.models.map(model => (
+            <div key={model.name}>{model.name}</div>
+          ))}
+        </div>
+      ))}
+    </div>
+  );
+}</code></pre>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h2>⭐ Особенности API</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
+                <div>
+                    <h4>🚀 Бесплатно</h4>
+                    <p>Полностью бесплатное использование</p>
+                </div>
+                <div>
+                    <h4>🌐 CORS включен</h4>
+                    <p>Доступно из любого домена</p>
+                </div>
+                <div>
+                    <h4>📡 JSON API</h4>
+                    <p>Простой формат данных</p>
+                </div>
+                <div>
+                    <h4>⚡ Быстро</h4>
+                    <p>Хостинг на GitHub Pages</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
