@@ -7686,194 +7686,1608 @@
     }
   ]
 },
-  {
-    "brand": "Nissan",
-    "models": [
-      { "name": "100 NX", "generations": [] },
-      { "name": "200 SX", "generations": [] },
-      { "name": "350 Z", "generations": [] },
-      { "name": "350 Z Roadster", "generations": [] },
-      { "name": "370 Z", "generations": [] },
-      { "name": "Almera", "generations": [] },
-      { "name": "Almera Tino", "generations": [] },
-      { "name": "Cabstar E - T", "generations": [] },
-      { "name": "Cabstar TL2 Valnik", "generations": [] },
-      { "name": "e-NV200", "generations": [] },
-      { "name": "GT-R", "generations": [] },
-      { "name": "Insterstar", "generations": [] },
-      { "name": "Juke", "generations": [] },
-      { "name": "King Cab", "generations": [] },
-      { "name": "Leaf", "generations": [] },
-      { "name": "Maxima", "generations": [] },
-      { "name": "Maxima QX", "generations": [] },
-      { "name": "Micra", "generations": [] },
-      { "name": "Murano", "generations": [] },
-      { "name": "Navara", "generations": [] },
-      { "name": "Note", "generations": [] },
-      { "name": "NP300 Pickup", "generations": [] },
-      { "name": "NV200", "generations": [] },
-      { "name": "NV400", "generations": [] },
-      { "name": "Pathfinder", "generations": [] },
-      { "name": "Patrol", "generations": [] },
-      { "name": "Patrol GR", "generations": [] },
-      { "name": "Pickup", "generations": [] },
-      { "name": "Pixo", "generations": [] },
-      { "name": "Primastar", "generations": [] },
-      { "name": "Primastar Combi", "generations": [] },
-      { "name": "Primera", "generations": [] },
-      { "name": "Primera Combi", "generations": [] },
-      { "name": "Pulsar", "generations": [] },
-      { "name": "Qashqai", "generations": [] },
-      { "name": "Serena", "generations": [] },
-      { "name": "Sunny", "generations": [] },
-      { "name": "Terrano", "generations": [] },
-      { "name": "Tiida", "generations": [] },
-      { "name": "Trade", "generations": [] },
-      { "name": "Vanette Cargo", "generations": [] },
-      { "name": "X-Trail", "generations": [] }
-    ]
-  },
-  {
-    "brand": "Volvo",
-    "models": [
-      { "name": "240", "generations": [] },
-      { "name": "340", "generations": [] },
-      { "name": "360", "generations": [] },
-      { "name": "460", "generations": [] },
-      { "name": "850", "generations": [] },
-      { "name": "850 kombi", "generations": [] },
-      { "name": "C30", "generations": [] },
-      { "name": "C70", "generations": [] },
-      { "name": "C70 Cabrio", "generations": [] },
-      { "name": "C70 Coupé", "generations": [] },
-      { "name": "S40", "generations": [] },
-      { "name": "S60", "generations": [] },
-      { "name": "S70", "generations": [] },
-      { "name": "S80", "generations": [] },
-      { "name": "S90", "generations": [] },
-      { "name": "V40", "generations": [] },
-      { "name": "V50", "generations": [] },
-      { "name": "V60", "generations": [] },
-      { "name": "V70", "generations": [] },
-      { "name": "V90", "generations": [] },
-      { "name": "XC60", "generations": [] },
-      { "name": "XC70", "generations": [] },
-      { "name": "XC90", "generations": [] }
-    ]
-  },
-  {
-    "brand": "Daewoo",
-    "models": [
-      { "name": "Espero", "generations": [] },
-      { "name": "Kalos", "generations": [] },
-      { "name": "Lacetti", "generations": [] },
-      { "name": "Lanos", "generations": [] },
-      { "name": "Leganza", "generations": [] },
-      { "name": "Lublin", "generations": [] },
-      { "name": "Matiz", "generations": [] },
-      { "name": "Nexia", "generations": [] },
-      { "name": "Nubira", "generations": [] },
-      { "name": "Nubira kombi", "generations": [] },
-      { "name": "Racer", "generations": [] },
-      { "name": "Tacuma", "generations": [] },
-      { "name": "Tico", "generations": [] }
-    ]
-  },
-  {
-    "brand": "Fiat",
-    "models": [
-      { "name": "1100", "generations": [] },
-      { "name": "126", "generations": [] },
-      { "name": "500", "generations": [] },
-      { "name": "500L", "generations": [] },
-      { "name": "500X", "generations": [] },
-      { "name": "850", "generations": [] },
-      { "name": "Barchetta", "generations": [] },
-      { "name": "Brava", "generations": [] },
-      { "name": "Cinquecento", "generations": [] },
-      { "name": "Coupé", "generations": [] },
-      { "name": "Croma", "generations": [] },
-      { "name": "Doblo", "generations": [] },
-      { "name": "Doblo Cargo", "generations": [] },
-      { "name": "Doblo Cargo Combi", "generations": [] },
-      { "name": "Ducato", "generations": [] },
-      { "name": "Ducato Van", "generations": [] },
-      { "name": "Ducato Kombi", "generations": [] },
-      { "name": "Ducato Podvozok", "generations": [] },
-      { "name": "Florino", "generations": [] },
-      { "name": "Florino Combi", "generations": [] },
-      { "name": "Freemont", "generations": [] },
-      { "name": "Grande Punto", "generations": [] },
-      { "name": "Idea", "generations": [] },
-      { "name": "Linea", "generations": [] },
-      { "name": "Marea", "generations": [] },
-      { "name": "Marea Weekend", "generations": [] },
-      { "name": "Multipla", "generations": [] },
-      { "name": "Palio Weekend", "generations": [] },
-      { "name": "Panda", "generations": [] },
-      { "name": "Panda Van", "generations": [] },
-      { "name": "Punto", "generations": [] },
-      { "name": "Punto Cabriolet", "generations": [] },
-      { "name": "Punto Evo", "generations": [] },
-      { "name": "Punto Van", "generations": [] },
-      { "name": "Qubo", "generations": [] },
-      { "name": "Scudo", "generations": [] },
-      { "name": "Scudo Van", "generations": [] },
-      { "name": "Scudo Kombi", "generations": [] },
-      { "name": "Sedici", "generations": [] },
-      { "name": "Seicento", "generations": [] },
-      { "name": "Stilo", "generations": [] },
-      { "name": "Stilo Multiwagon", "generations": [] },
-      { "name": "Strada", "generations": [] },
-      { "name": "Talento", "generations": [] },
-      { "name": "Tipo", "generations": [] },
-      { "name": "Ulysse", "generations": [] },
-      { "name": "Uno", "generations": [] },
-      { "name": "X1/9", "generations": [] }
-    ]
-  },
-  {
-    "brand": "MINI",
-    "models": [
-      { "name": "Cooper", "generations": [] },
-      { "name": "Cooper Cabrio", "generations": [] },
-      { "name": "Cooper Clubman", "generations": [] },
-      { "name": "Cooper D", "generations": [] },
-      { "name": "Cooper D Clubman", "generations": [] },
-      { "name": "Cooper S", "generations": [] },
-      { "name": "Cooper S Cabrio", "generations": [] },
-      { "name": "Cooper S Clubman", "generations": [] },
-      { "name": "Countryman", "generations": [] },
-      { "name": "Mini One", "generations": [] },
-      { "name": "One D", "generations": [] }
-    ]
-  },
-  {
-    "brand": "Rover",
-    "models": [
-      { "name": "200", "generations": [] },
-      { "name": "214", "generations": [] },
-      { "name": "218", "generations": [] },
-      { "name": "25", "generations": [] },
-      { "name": "400", "generations": [] },
-      { "name": "414", "generations": [] },
-      { "name": "416", "generations": [] },
-      { "name": "620", "generations": [] },
-      { "name": "75", "generations": [] }
-    ]
-  },
-  {
-    "brand": "Smart",
-    "models": [
-      { "name": "Cabrio", "generations": [] },
-      { "name": "City-Coupé", "generations": [] },
-      { "name": "Compact Pulse", "generations": [] },
-      { "name": "Forfour", "generations": [] },
-      { "name": "Fortwo cabrio", "generations": [] },
-      { "name": "Fortwo coupé", "generations": [] },
-      { "name": "Roadster", "generations": [] }
-    ]
-  },
+{
+  "brand": "Nissan",
+  "models": [
+    {
+      "name": "100 NX",
+      "generations": [
+        { "name": "NX Coupe", "yearFrom": 1990, "yearTo": 1993 },
+        { "name": "NX Coupe Facelift", "yearFrom": 1993, "yearTo": 1996 }
+      ]
+    },
+    {
+      "name": "200 SX",
+      "generations": [
+        { "name": "S110", "yearFrom": 1979, "yearTo": 1983 },
+        { "name": "S12", "yearFrom": 1983, "yearTo": 1988 },
+        { "name": "S13", "yearFrom": 1988, "yearTo": 1994 },
+        { "name": "S14", "yearFrom": 1993, "yearTo": 1999 },
+        { "name": "S15", "yearFrom": 1999, "yearTo": 2002 }
+      ]
+    },
+    {
+      "name": "350 Z",
+      "generations": [
+        { "name": "Z33", "yearFrom": 2002, "yearTo": 2009 }
+      ]
+    },
+    {
+      "name": "350 Z Roadster",
+      "generations": [
+        { "name": "Z33", "yearFrom": 2003, "yearTo": 2009 }
+      ]
+    },
+    {
+      "name": "370 Z",
+      "generations": [
+        { "name": "Z34", "yearFrom": 2009, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "Almera",
+      "generations": [
+        { "name": "N15", "yearFrom": 1995, "yearTo": 2000 },
+        { "name": "N16", "yearFrom": 2000, "yearTo": 2006 },
+        { "name": "G11", "yearFrom": 2012, "yearTo": 2019 }
+      ]
+    },
+    {
+      "name": "Almera Tino",
+      "generations": [
+        { "name": "V10", "yearFrom": 2000, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "Cabstar E - T",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1992, "yearTo": 1998 },
+        { "name": "Second generation", "yearFrom": 1998, "yearTo": 2006 }
+      ]
+    },
+    {
+      "name": "Cabstar TL2 Valnik",
+      "generations": [
+        { "name": "TL2", "yearFrom": 2006, "yearTo": 2014 }
+      ]
+    },
+    {
+      "name": "e-NV200",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2014, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "GT-R",
+      "generations": [
+        { "name": "R35", "yearFrom": 2007, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Interstar",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2002, "yearTo": 2014 },
+        { "name": "Second generation", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Juke",
+      "generations": [
+        { "name": "F15", "yearFrom": 2010, "yearTo": 2019 },
+        { "name": "F16", "yearFrom": 2019, "yearTo": null }
+      ]
+    },
+    {
+      "name": "King Cab",
+      "generations": [
+        { "name": "D21", "yearFrom": 1985, "yearTo": 1997 },
+        { "name": "D22", "yearFrom": 1997, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Leaf",
+      "generations": [
+        { "name": "ZE0", "yearFrom": 2010, "yearTo": 2017 },
+        { "name": "ZE1", "yearFrom": 2017, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Maxima",
+      "generations": [
+        { "name": "A32", "yearFrom": 1994, "yearTo": 1999 },
+        { "name": "A33", "yearFrom": 1999, "yearTo": 2003 },
+        { "name": "A34", "yearFrom": 2003, "yearTo": 2008 },
+        { "name": "A35", "yearFrom": 2008, "yearTo": 2014 },
+        { "name": "A36", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Maxima QX",
+      "generations": [
+        { "name": "A32", "yearFrom": 1994, "yearTo": 1999 }
+      ]
+    },
+    {
+      "name": "Micra",
+      "generations": [
+        { "name": "K10", "yearFrom": 1982, "yearTo": 1992 },
+        { "name": "K11", "yearFrom": 1992, "yearTo": 2003 },
+        { "name": "K12", "yearFrom": 2002, "yearTo": 2010 },
+        { "name": "K13", "yearFrom": 2010, "yearTo": 2017 },
+        { "name": "K14", "yearFrom": 2017, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Murano",
+      "generations": [
+        { "name": "Z50", "yearFrom": 2002, "yearTo": 2007 },
+        { "name": "Z51", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "Z52", "yearFrom": 2014, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "Navara",
+      "generations": [
+        { "name": "D21", "yearFrom": 1985, "yearTo": 1997 },
+        { "name": "D22", "yearFrom": 1997, "yearTo": 2008 },
+        { "name": "D40", "yearFrom": 2004, "yearTo": 2014 },
+        { "name": "D23", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Note",
+      "generations": [
+        { "name": "E11", "yearFrom": 2005, "yearTo": 2013 },
+        { "name": "E12", "yearFrom": 2013, "yearTo": 2020 }
+      ]
+    },
+    {
+      "name": "NP300 Pickup",
+      "generations": [
+        { "name": "D23", "yearFrom": 2008, "yearTo": 2015 }
+      ]
+    },
+    {
+      "name": "NV200",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2009, "yearTo": 2019 }
+      ]
+    },
+    {
+      "name": "NV400",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2010, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Pathfinder",
+      "generations": [
+        { "name": "R50", "yearFrom": 1995, "yearTo": 2004 },
+        { "name": "R51", "yearFrom": 2004, "yearTo": 2012 },
+        { "name": "R52", "yearFrom": 2012, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "Patrol",
+      "generations": [
+        { "name": "Y60", "yearFrom": 1987, "yearTo": 1997 },
+        { "name": "Y61", "yearFrom": 1997, "yearTo": 2010 },
+        { "name": "Y62", "yearFrom": 2010, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Patrol GR",
+      "generations": [
+        { "name": "Y61", "yearFrom": 1997, "yearTo": 2010 }
+      ]
+    },
+    {
+      "name": "Pickup",
+      "generations": [
+        { "name": "D21", "yearFrom": 1985, "yearTo": 1997 },
+        { "name": "D22", "yearFrom": 1997, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Pixo",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2009, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "Primastar",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2001, "yearTo": 2014 },
+        { "name": "Second generation", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Primastar Combi",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2001, "yearTo": 2014 },
+        { "name": "Second generation", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Primera",
+      "generations": [
+        { "name": "P10", "yearFrom": 1990, "yearTo": 1996 },
+        { "name": "P11", "yearFrom": 1996, "yearTo": 2002 },
+        { "name": "P12", "yearFrom": 2001, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Primera Combi",
+      "generations": [
+        { "name": "P10", "yearFrom": 1990, "yearTo": 1996 },
+        { "name": "P11", "yearFrom": 1996, "yearTo": 2002 },
+        { "name": "P12", "yearFrom": 2001, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Pulsar",
+      "generations": [
+        { "name": "N13", "yearFrom": 1987, "yearTo": 1990 },
+        { "name": "N14", "yearFrom": 1990, "yearTo": 1995 },
+        { "name": "N15", "yearFrom": 1995, "yearTo": 2000 },
+        { "name": "C13", "yearFrom": 2014, "yearTo": 2018 }
+      ]
+    },
+    {
+      "name": "Qashqai",
+      "generations": [
+        { "name": "J10", "yearFrom": 2006, "yearTo": 2013 },
+        { "name": "J11", "yearFrom": 2013, "yearTo": 2021 },
+        { "name": "J12", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Serena",
+      "generations": [
+        { "name": "C23", "yearFrom": 1991, "yearTo": 1999 },
+        { "name": "C24", "yearFrom": 1999, "yearTo": 2005 },
+        { "name": "C25", "yearFrom": 2005, "yearTo": 2010 },
+        { "name": "C26", "yearFrom": 2010, "yearTo": 2016 },
+        { "name": "C27", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Sunny",
+      "generations": [
+        { "name": "B11", "yearFrom": 1981, "yearTo": 1985 },
+        { "name": "B12", "yearFrom": 1985, "yearTo": 1990 },
+        { "name": "B13", "yearFrom": 1990, "yearTo": 1994 },
+        { "name": "B14", "yearFrom": 1993, "yearTo": 1999 }
+      ]
+    },
+    {
+      "name": "Terrano",
+      "generations": [
+        { "name": "WD21", "yearFrom": 1985, "yearTo": 1995 },
+        { "name": "R20", "yearFrom": 1993, "yearTo": 2006 }
+      ]
+    },
+    {
+      "name": "Tiida",
+      "generations": [
+        { "name": "C11", "yearFrom": 2004, "yearTo": 2012 },
+        { "name": "C12", "yearFrom": 2012, "yearTo": 2018 }
+      ]
+    },
+    {
+      "name": "Trade",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2002, "yearTo": 2014 },
+        { "name": "Second generation", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Vanette Cargo",
+      "generations": [
+        { "name": "C22", "yearFrom": 1986, "yearTo": 1994 },
+        { "name": "Cargo", "yearFrom": 1994, "yearTo": 2001 }
+      ]
+    },
+    {
+      "name": "X-Trail",
+      "generations": [
+        { "name": "T30", "yearFrom": 2000, "yearTo": 2007 },
+        { "name": "T31", "yearFrom": 2007, "yearTo": 2013 },
+        { "name": "T32", "yearFrom": 2013, "yearTo": 2021 },
+        { "name": "T33", "yearFrom": 2021, "yearTo": null }
+      ]
+    }
+  ]
+},
+{
+  "brand": "Volvo",
+  "models": [
+    {
+      "name": "240",
+      "generations": [
+        { "name": "Series 1", "yearFrom": 1974, "yearTo": 1984 },
+        { "name": "Series 2", "yearFrom": 1985, "yearTo": 1993 }
+      ]
+    },
+    {
+      "name": "340",
+      "generations": [
+        { "name": "343/345", "yearFrom": 1976, "yearTo": 1983 },
+        { "name": "340 Series", "yearFrom": 1983, "yearTo": 1991 }
+      ]
+    },
+    {
+      "name": "360",
+      "generations": [
+        { "name": "360 Series", "yearFrom": 1982, "yearTo": 1989 }
+      ]
+    },
+    {
+      "name": "460",
+      "generations": [
+        { "name": "400 Series", "yearFrom": 1995, "yearTo": 1999 }
+      ]
+    },
+    {
+      "name": "850",
+      "generations": [
+        { "name": "850 Sedan", "yearFrom": 1991, "yearTo": 1996 }
+      ]
+    },
+    {
+      "name": "850 kombi",
+      "generations": [
+        { "name": "850 Estate", "yearFrom": 1993, "yearTo": 1997 }
+      ]
+    },
+    {
+      "name": "C30",
+      "generations": [
+        { "name": "P1 Platform", "yearFrom": 2006, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "C70",
+      "generations": [
+        { "name": "P80 Platform", "yearFrom": 1997, "yearTo": 2005 },
+        { "name": "P1 Platform", "yearFrom": 2006, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "C70 Cabrio",
+      "generations": [
+        { "name": "P80 Platform", "yearFrom": 1998, "yearTo": 2005 },
+        { "name": "P1 Platform", "yearFrom": 2006, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "C70 Coupé",
+      "generations": [
+        { "name": "P80 Platform", "yearFrom": 1997, "yearTo": 2002 }
+      ]
+    },
+    {
+      "name": "S40",
+      "generations": [
+        { "name": "P1 Platform", "yearFrom": 1995, "yearTo": 2000 },
+        { "name": "P11 Platform", "yearFrom": 2000, "yearTo": 2004 },
+        { "name": "P1 Platform", "yearFrom": 2004, "yearTo": 2012 }
+      ]
+    },
+    {
+      "name": "S60",
+      "generations": [
+        { "name": "P2 Platform", "yearFrom": 2000, "yearTo": 2009 },
+        { "name": "SPA Platform", "yearFrom": 2010, "yearTo": 2018 },
+        { "name": "SPA Platform", "yearFrom": 2018, "yearTo": null }
+      ]
+    },
+    {
+      "name": "S70",
+      "generations": [
+        { "name": "P80 Platform", "yearFrom": 1996, "yearTo": 2000 }
+      ]
+    },
+    {
+      "name": "S80",
+      "generations": [
+        { "name": "P2 Platform", "yearFrom": 1998, "yearTo": 2006 },
+        { "name": "EUCD Platform", "yearFrom": 2006, "yearTo": 2016 },
+        { "name": "SPA Platform", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "S90",
+      "generations": [
+        { "name": "P90 Platform", "yearFrom": 1996, "yearTo": 1998 },
+        { "name": "SPA Platform", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "V40",
+      "generations": [
+        { "name": "P1 Platform", "yearFrom": 1995, "yearTo": 2000 },
+        { "name": "P1 Platform", "yearFrom": 2012, "yearTo": 2019 }
+      ]
+    },
+    {
+      "name": "V50",
+      "generations": [
+        { "name": "P1 Platform", "yearFrom": 2004, "yearTo": 2012 }
+      ]
+    },
+    {
+      "name": "V60",
+      "generations": [
+        { "name": "P3 Platform", "yearFrom": 2010, "yearTo": 2018 },
+        { "name": "SPA Platform", "yearFrom": 2018, "yearTo": null }
+      ]
+    },
+    {
+      "name": "V70",
+      "generations": [
+        { "name": "P80 Platform", "yearFrom": 1996, "yearTo": 2000 },
+        { "name": "P2 Platform", "yearFrom": 2000, "yearTo": 2007 },
+        { "name": "P3 Platform", "yearFrom": 2007, "yearTo": 2016 }
+      ]
+    },
+    {
+      "name": "V90",
+      "generations": [
+        { "name": "P90 Platform", "yearFrom": 1996, "yearTo": 1998 },
+        { "name": "SPA Platform", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "XC60",
+      "generations": [
+        { "name": "P3 Platform", "yearFrom": 2008, "yearTo": 2017 },
+        { "name": "SPA Platform", "yearFrom": 2017, "yearTo": null }
+      ]
+    },
+    {
+      "name": "XC70",
+      "generations": [
+        { "name": "P2 Platform", "yearFrom": 2000, "yearTo": 2007 },
+        { "name": "P3 Platform", "yearFrom": 2007, "yearTo": 2016 }
+      ]
+    },
+    {
+      "name": "XC90",
+      "generations": [
+        { "name": "P2 Platform", "yearFrom": 2002, "yearTo": 2014 },
+        { "name": "SPA Platform", "yearFrom": 2014, "yearTo": null }
+      ]
+    }
+  ]
+},
+{
+  "brand": "Daewoo",
+  "models": [
+    {
+      "name": "Espero",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1990, "yearTo": 1999 }
+      ]
+    },
+    {
+      "name": "Kalos",
+      "generations": [
+        { "name": "T200", "yearFrom": 2002, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Lacetti",
+      "generations": [
+        { "name": "J200", "yearFrom": 2002, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Lanos",
+      "generations": [
+        { "name": "T100", "yearFrom": 1997, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Leganza",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1997, "yearTo": 2002 }
+      ]
+    },
+    {
+      "name": "Lublin",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1993, "yearTo": 2001 }
+      ]
+    },
+    {
+      "name": "Matiz",
+      "generations": [
+        { "name": "M100", "yearFrom": 1998, "yearTo": 2005 },
+        { "name": "M150", "yearFrom": 2005, "yearTo": 2010 }
+      ]
+    },
+    {
+      "name": "Nexia",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1995, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Nubira",
+      "generations": [
+        { "name": "J100", "yearFrom": 1997, "yearTo": 1999 },
+        { "name": "J150", "yearFrom": 1999, "yearTo": 2003 }
+      ]
+    },
+    {
+      "name": "Nubira kombi",
+      "generations": [
+        { "name": "J100", "yearFrom": 1997, "yearTo": 1999 },
+        { "name": "J150", "yearFrom": 1999, "yearTo": 2003 }
+      ]
+    },
+    {
+      "name": "Racer",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1986, "yearTo": 1994 }
+      ]
+    },
+    {
+      "name": "Tacuma",
+      "generations": [
+        { "name": "V100", "yearFrom": 2000, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Tico",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1991, "yearTo": 2001 }
+      ]
+    },
+    {
+      "name": "Chairman",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1997, "yearTo": 2003 },
+        { "name": "Second generation", "yearFrom": 2003, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Damas",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1991, "yearTo": 1999 },
+        { "name": "Second generation", "yearFrom": 1999, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Evanda",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2002, "yearTo": 2006 }
+      ]
+    },
+    {
+      "name": "G2X",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2006, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Gentra",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2005, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Labo",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1991, "yearTo": 1999 },
+        { "name": "Second generation", "yearFrom": 1999, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "LeMans",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1989, "yearTo": 1994 }
+      ]
+    },
+    {
+      "name": "Magnus",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2000, "yearTo": 2006 }
+      ]
+    },
+    {
+      "name": "Prince",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1991, "yearTo": 1997 }
+      ]
+    },
+    {
+      "name": "Rezzo",
+      "generations": [
+        { "name": "V100", "yearFrom": 2000, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Sens",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1998, "yearTo": 2002 }
+      ]
+    },
+    {
+      "name": "Tosca",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2006, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "Winstorm",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2006, "yearTo": 2008 }
+      ]
+    }
+  ]
+},
+{
+  "brand": "Fiat",
+  "models": [
+    {
+      "name": "1100",
+      "generations": [
+        { "name": "103", "yearFrom": 1953, "yearTo": 1969 }
+      ]
+    },
+    {
+      "name": "126",
+      "generations": [
+        { "name": "126", "yearFrom": 1972, "yearTo": 1980 },
+        { "name": "126p", "yearFrom": 1973, "yearTo": 2000 }
+      ]
+    },
+    {
+      "name": "500",
+      "generations": [
+        { "name": "Nuova 500", "yearFrom": 1957, "yearTo": 1975 },
+        { "name": "500 (2007)", "yearFrom": 2007, "yearTo": 2020 },
+        { "name": "500 electric", "yearFrom": 2020, "yearTo": null }
+      ]
+    },
+    {
+      "name": "500L",
+      "generations": [
+        { "name": "500L", "yearFrom": 2012, "yearTo": 2022 }
+      ]
+    },
+    {
+      "name": "500X",
+      "generations": [
+        { "name": "500X", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "850",
+      "generations": [
+        { "name": "850", "yearFrom": 1964, "yearTo": 1971 }
+      ]
+    },
+    {
+      "name": "Barchetta",
+      "generations": [
+        { "name": "Barchetta", "yearFrom": 1995, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "Brava",
+      "generations": [
+        { "name": "Brava", "yearFrom": 1995, "yearTo": 2001 }
+      ]
+    },
+    {
+      "name": "Cinquecento",
+      "generations": [
+        { "name": "Cinquecento", "yearFrom": 1991, "yearTo": 1998 }
+      ]
+    },
+    {
+      "name": "Coupé",
+      "generations": [
+        { "name": "Coupé", "yearFrom": 1993, "yearTo": 2000 }
+      ]
+    },
+    {
+      "name": "Croma",
+      "generations": [
+        { "name": "Croma", "yearFrom": 1985, "yearTo": 1996 },
+        { "name": "Croma (2005)", "yearFrom": 2005, "yearTo": 2011 }
+      ]
+    },
+    {
+      "name": "Doblo",
+      "generations": [
+        { "name": "Doblo", "yearFrom": 2000, "yearTo": 2010 },
+        { "name": "Doblo (2010)", "yearFrom": 2010, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Doblo Cargo",
+      "generations": [
+        { "name": "Doblo Cargo", "yearFrom": 2000, "yearTo": 2010 },
+        { "name": "Doblo Cargo (2010)", "yearFrom": 2010, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Doblo Cargo Combi",
+      "generations": [
+        { "name": "Doblo Cargo Combi", "yearFrom": 2000, "yearTo": 2010 },
+        { "name": "Doblo Cargo Combi (2010)", "yearFrom": 2010, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Ducato",
+      "generations": [
+        { "name": "Ducato", "yearFrom": 1981, "yearTo": 1990 },
+        { "name": "Ducato (1994)", "yearFrom": 1994, "yearTo": 2002 },
+        { "name": "Ducato (2002)", "yearFrom": 2002, "yearTo": 2006 },
+        { "name": "Ducato (2006)", "yearFrom": 2006, "yearTo": 2014 },
+        { "name": "Ducato (2014)", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Ducato Van",
+      "generations": [
+        { "name": "Ducato Van", "yearFrom": 1981, "yearTo": 1990 },
+        { "name": "Ducato Van (1994)", "yearFrom": 1994, "yearTo": 2002 },
+        { "name": "Ducato Van (2002)", "yearFrom": 2002, "yearTo": 2006 },
+        { "name": "Ducato Van (2006)", "yearFrom": 2006, "yearTo": 2014 },
+        { "name": "Ducato Van (2014)", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Ducato Kombi",
+      "generations": [
+        { "name": "Ducato Kombi", "yearFrom": 1981, "yearTo": 1990 },
+        { "name": "Ducato Kombi (1994)", "yearFrom": 1994, "yearTo": 2002 },
+        { "name": "Ducato Kombi (2002)", "yearFrom": 2002, "yearTo": 2006 },
+        { "name": "Ducato Kombi (2006)", "yearFrom": 2006, "yearTo": 2014 },
+        { "name": "Ducato Kombi (2014)", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Ducato Podvozok",
+      "generations": [
+        { "name": "Ducato Podvozok", "yearFrom": 1981, "yearTo": 1990 },
+        { "name": "Ducato Podvozok (1994)", "yearFrom": 1994, "yearTo": 2002 },
+        { "name": "Ducato Podvozok (2002)", "yearFrom": 2002, "yearTo": 2006 },
+        { "name": "Ducato Podvozok (2006)", "yearFrom": 2006, "yearTo": 2014 },
+        { "name": "Ducato Podvozok (2014)", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Fiorino",
+      "generations": [
+        { "name": "Fiorino", "yearFrom": 1977, "yearTo": 1988 },
+        { "name": "Fiorino (1988)", "yearFrom": 1988, "yearTo": 2000 },
+        { "name": "Fiorino (2007)", "yearFrom": 2007, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Fiorino Combi",
+      "generations": [
+        { "name": "Fiorino Combi", "yearFrom": 1977, "yearTo": 1988 },
+        { "name": "Fiorino Combi (1988)", "yearFrom": 1988, "yearTo": 2000 },
+        { "name": "Fiorino Combi (2007)", "yearFrom": 2007, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Freemont",
+      "generations": [
+        { "name": "Freemont", "yearFrom": 2011, "yearTo": 2016 }
+      ]
+    },
+    {
+      "name": "Grande Punto",
+      "generations": [
+        { "name": "Grande Punto", "yearFrom": 2005, "yearTo": 2009 },
+        { "name": "Grande Punto (2009)", "yearFrom": 2009, "yearTo": 2012 }
+      ]
+    },
+    {
+      "name": "Idea",
+      "generations": [
+        { "name": "Idea", "yearFrom": 2003, "yearTo": 2012 }
+      ]
+    },
+    {
+      "name": "Linea",
+      "generations": [
+        { "name": "Linea", "yearFrom": 2007, "yearTo": 2015 }
+      ]
+    },
+    {
+      "name": "Marea",
+      "generations": [
+        { "name": "Marea", "yearFrom": 1996, "yearTo": 2002 }
+      ]
+    },
+    {
+      "name": "Marea Weekend",
+      "generations": [
+        { "name": "Marea Weekend", "yearFrom": 1996, "yearTo": 2002 }
+      ]
+    },
+    {
+      "name": "Multipla",
+      "generations": [
+        { "name": "Multipla", "yearFrom": 1998, "yearTo": 2004 },
+        { "name": "Multipla (2004)", "yearFrom": 2004, "yearTo": 2010 }
+      ]
+    },
+    {
+      "name": "Palio Weekend",
+      "generations": [
+        { "name": "Palio Weekend", "yearFrom": 1996, "yearTo": 2001 }
+      ]
+    },
+    {
+      "name": "Panda",
+      "generations": [
+        { "name": "Panda", "yearFrom": 1980, "yearTo": 2003 },
+        { "name": "Panda (2003)", "yearFrom": 2003, "yearTo": 2012 },
+        { "name": "Panda (2012)", "yearFrom": 2012, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Panda Van",
+      "generations": [
+        { "name": "Panda Van", "yearFrom": 1980, "yearTo": 2003 },
+        { "name": "Panda Van (2003)", "yearFrom": 2003, "yearTo": 2012 },
+        { "name": "Panda Van (2012)", "yearFrom": 2012, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Punto",
+      "generations": [
+        { "name": "Punto", "yearFrom": 1993, "yearTo": 1999 },
+        { "name": "Punto (1999)", "yearFrom": 1999, "yearTo": 2003 },
+        { "name": "Punto (2003)", "yearFrom": 2003, "yearTo": 2005 },
+        { "name": "Punto (2005)", "yearFrom": 2005, "yearTo": 2009 },
+        { "name": "Punto (2009)", "yearFrom": 2009, "yearTo": 2012 },
+        { "name": "Punto (2012)", "yearFrom": 2012, "yearTo": 2018 }
+      ]
+    },
+    {
+      "name": "Punto Cabriolet",
+      "generations": [
+        { "name": "Punto Cabriolet", "yearFrom": 1994, "yearTo": 1999 }
+      ]
+    },
+    {
+      "name": "Punto Evo",
+      "generations": [
+        { "name": "Punto Evo", "yearFrom": 2009, "yearTo": 2012 }
+      ]
+    },
+    {
+      "name": "Punto Van",
+      "generations": [
+        { "name": "Punto Van", "yearFrom": 1993, "yearTo": 1999 },
+        { "name": "Punto Van (1999)", "yearFrom": 1999, "yearTo": 2003 },
+        { "name": "Punto Van (2003)", "yearFrom": 2003, "yearTo": 2005 },
+        { "name": "Punto Van (2005)", "yearFrom": 2005, "yearTo": 2009 },
+        { "name": "Punto Van (2009)", "yearFrom": 2009, "yearTo": 2012 },
+        { "name": "Punto Van (2012)", "yearFrom": 2012, "yearTo": 2018 }
+      ]
+    },
+    {
+      "name": "Qubo",
+      "generations": [
+        { "name": "Qubo", "yearFrom": 2008, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Scudo",
+      "generations": [
+        { "name": "Scudo", "yearFrom": 1995, "yearTo": 2007 },
+        { "name": "Scudo (2007)", "yearFrom": 2007, "yearTo": 2016 }
+      ]
+    },
+    {
+      "name": "Scudo Van",
+      "generations": [
+        { "name": "Scudo Van", "yearFrom": 1995, "yearTo": 2007 },
+        { "name": "Scudo Van (2007)", "yearFrom": 2007, "yearTo": 2016 }
+      ]
+    },
+    {
+      "name": "Scudo Kombi",
+      "generations": [
+        { "name": "Scudo Kombi", "yearFrom": 1995, "yearTo": 2007 },
+        { "name": "Scudo Kombi (2007)", "yearFrom": 2007, "yearTo": 2016 }
+      ]
+    },
+    {
+      "name": "Sedici",
+      "generations": [
+        { "name": "Sedici", "yearFrom": 2006, "yearTo": 2014 }
+      ]
+    },
+    {
+      "name": "Seicento",
+      "generations": [
+        { "name": "Seicento", "yearFrom": 1998, "yearTo": 2010 }
+      ]
+    },
+    {
+      "name": "Stilo",
+      "generations": [
+        { "name": "Stilo", "yearFrom": 2001, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Stilo Multiwagon",
+      "generations": [
+        { "name": "Stilo Multiwagon", "yearFrom": 2002, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Strada",
+      "generations": [
+        { "name": "Strada", "yearFrom": 1998, "yearTo": 2010 },
+        { "name": "Strada (2010)", "yearFrom": 2010, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Talento",
+      "generations": [
+        { "name": "Talento", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Tipo",
+      "generations": [
+        { "name": "Tipo", "yearFrom": 1988, "yearTo": 1995 },
+        { "name": "Tipo (2015)", "yearFrom": 2015, "yearTo": 2020 },
+        { "name": "Tipo (2020)", "yearFrom": 2020, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Ulysse",
+      "generations": [
+        { "name": "Ulysse", "yearFrom": 1994, "yearTo": 2002 },
+        { "name": "Ulysse (2002)", "yearFrom": 2002, "yearTo": 2010 }
+      ]
+    },
+    {
+      "name": "Uno",
+      "generations": [
+        { "name": "Uno", "yearFrom": 1983, "yearTo": 1989 },
+        { "name": "Uno (1989)", "yearFrom": 1989, "yearTo": 1995 }
+      ]
+    },
+    {
+      "name": "X1/9",
+      "generations": [
+        { "name": "X1/9", "yearFrom": 1972, "yearTo": 1989 }
+      ]
+    },
+    {
+      "name": "124",
+      "generations": [
+        { "name": "124", "yearFrom": 1966, "yearTo": 1974 },
+        { "name": "124 Spider", "yearFrom": 2016, "yearTo": 2020 }
+      ]
+    },
+    {
+      "name": "131",
+      "generations": [
+        { "name": "131", "yearFrom": 1974, "yearTo": 1984 }
+      ]
+    },
+    {
+      "name": "Argenta",
+      "generations": [
+        { "name": "Argenta", "yearFrom": 1980, "yearTo": 1985 }
+      ]
+    },
+    {
+      "name": "Bravo",
+      "generations": [
+        { "name": "Bravo", "yearFrom": 1995, "yearTo": 2001 },
+        { "name": "Bravo (2007)", "yearFrom": 2007, "yearTo": 2014 }
+      ]
+    },
+    {
+      "name": "Ritmo",
+      "generations": [
+        { "name": "Ritmo", "yearFrom": 1978, "yearTo": 1988 }
+      ]
+    },
+    {
+      "name": "Tempra",
+      "generations": [
+        { "name": "Tempra", "yearFrom": 1990, "yearTo": 1996 }
+      ]
+    }
+  ]
+},
+{
+  "brand": "MINI",
+  "models": [
+    {
+      "name": "Cooper",
+      "generations": [
+        { "name": "R50", "yearFrom": 2001, "yearTo": 2006 },
+        { "name": "R56", "yearFrom": 2006, "yearTo": 2013 },
+        { "name": "F56", "yearFrom": 2013, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper Cabrio",
+      "generations": [
+        { "name": "R52", "yearFrom": 2004, "yearTo": 2008 },
+        { "name": "R57", "yearFrom": 2008, "yearTo": 2015 },
+        { "name": "F57", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper Clubman",
+      "generations": [
+        { "name": "R55", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "F54", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper D",
+      "generations": [
+        { "name": "R56", "yearFrom": 2008, "yearTo": 2013 },
+        { "name": "F56", "yearFrom": 2013, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper D Clubman",
+      "generations": [
+        { "name": "R55", "yearFrom": 2008, "yearTo": 2014 },
+        { "name": "F54", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper S",
+      "generations": [
+        { "name": "R53", "yearFrom": 2001, "yearTo": 2006 },
+        { "name": "R56", "yearFrom": 2006, "yearTo": 2013 },
+        { "name": "F56", "yearFrom": 2013, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper S Cabrio",
+      "generations": [
+        { "name": "R52", "yearFrom": 2004, "yearTo": 2008 },
+        { "name": "R57", "yearFrom": 2008, "yearTo": 2015 },
+        { "name": "F57", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper S Clubman",
+      "generations": [
+        { "name": "R55", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "F54", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Countryman",
+      "generations": [
+        { "name": "R60", "yearFrom": 2010, "yearTo": 2016 },
+        { "name": "F60", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Mini One",
+      "generations": [
+        { "name": "R50", "yearFrom": 2001, "yearTo": 2006 },
+        { "name": "R56", "yearFrom": 2006, "yearTo": 2013 },
+        { "name": "F56", "yearFrom": 2013, "yearTo": null }
+      ]
+    },
+    {
+      "name": "One D",
+      "generations": [
+        { "name": "R56", "yearFrom": 2008, "yearTo": 2013 },
+        { "name": "F56", "yearFrom": 2013, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper SE",
+      "generations": [
+        { "name": "F56", "yearFrom": 2020, "yearTo": null }
+      ]
+    },
+    {
+      "name": "John Cooper Works",
+      "generations": [
+        { "name": "R53", "yearFrom": 2002, "yearTo": 2006 },
+        { "name": "R56", "yearFrom": 2006, "yearTo": 2013 },
+        { "name": "F56", "yearFrom": 2013, "yearTo": null }
+      ]
+    },
+    {
+      "name": "John Cooper Works Cabrio",
+      "generations": [
+        { "name": "R57", "yearFrom": 2009, "yearTo": 2015 },
+        { "name": "F57", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "John Cooper Works Clubman",
+      "generations": [
+        { "name": "F54", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "John Cooper Works Countryman",
+      "generations": [
+        { "name": "R60", "yearFrom": 2011, "yearTo": 2016 },
+        { "name": "F60", "yearFrom": 2017, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Paceman",
+      "generations": [
+        { "name": "R61", "yearFrom": 2012, "yearTo": 2016 }
+      ]
+    },
+    {
+      "name": "Cooper SD",
+      "generations": [
+        { "name": "R56", "yearFrom": 2008, "yearTo": 2013 },
+        { "name": "F56", "yearFrom": 2013, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper SD Clubman",
+      "generations": [
+        { "name": "R55", "yearFrom": 2008, "yearTo": 2014 },
+        { "name": "F54", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper SD Countryman",
+      "generations": [
+        { "name": "R60", "yearFrom": 2010, "yearTo": 2016 },
+        { "name": "F60", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "One",
+      "generations": [
+        { "name": "R50", "yearFrom": 2001, "yearTo": 2006 },
+        { "name": "R56", "yearFrom": 2006, "yearTo": 2013 },
+        { "name": "F56", "yearFrom": 2013, "yearTo": null }
+      ]
+    },
+    {
+      "name": "One Cabrio",
+      "generations": [
+        { "name": "R52", "yearFrom": 2004, "yearTo": 2008 },
+        { "name": "R57", "yearFrom": 2008, "yearTo": 2015 }
+      ]
+    },
+    {
+      "name": "One Clubman",
+      "generations": [
+        { "name": "R55", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "F54", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "One Countryman",
+      "generations": [
+        { "name": "R60", "yearFrom": 2010, "yearTo": 2016 },
+        { "name": "F60", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cooper SE Countryman",
+      "generations": [
+        { "name": "F60", "yearFrom": 2020, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Electric",
+      "generations": [
+        { "name": "F56", "yearFrom": 2020, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Clubman",
+      "generations": [
+        { "name": "R55", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "F54", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cabrio",
+      "generations": [
+        { "name": "R52", "yearFrom": 2004, "yearTo": 2008 },
+        { "name": "R57", "yearFrom": 2008, "yearTo": 2015 },
+        { "name": "F57", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Coupe",
+      "generations": [
+        { "name": "R58", "yearFrom": 2011, "yearTo": 2015 }
+      ]
+    },
+    {
+      "name": "Roadster",
+      "generations": [
+        { "name": "R59", "yearFrom": 2012, "yearTo": 2015 }
+      ]
+    }
+  ]
+},
+{
+  "brand": "Rover",
+  "models": [
+    {
+      "name": "200",
+      "generations": [
+        { "name": "SD3", "yearFrom": 1984, "yearTo": 1989 },
+        { "name": "R8", "yearFrom": 1989, "yearTo": 1995 },
+        { "name": "R3", "yearFrom": 1995, "yearTo": 1999 },
+        { "name": "R3 Facelift", "yearFrom": 1999, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "214",
+      "generations": [
+        { "name": "R8", "yearFrom": 1989, "yearTo": 1995 },
+        { "name": "R3", "yearFrom": 1995, "yearTo": 1999 },
+        { "name": "R3 Facelift", "yearFrom": 1999, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "218",
+      "generations": [
+        { "name": "R8", "yearFrom": 1989, "yearTo": 1995 },
+        { "name": "R3", "yearFrom": 1995, "yearTo": 1999 },
+        { "name": "R3 Facelift", "yearFrom": 1999, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "25",
+      "generations": [
+        { "name": "R3", "yearFrom": 1999, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "400",
+      "generations": [
+        { "name": "R8", "yearFrom": 1990, "yearTo": 1995 },
+        { "name": "R3", "yearFrom": 1995, "yearTo": 1999 },
+        { "name": "R3 Facelift", "yearFrom": 1999, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "414",
+      "generations": [
+        { "name": "R8", "yearFrom": 1990, "yearTo": 1995 },
+        { "name": "R3", "yearFrom": 1995, "yearTo": 1999 },
+        { "name": "R3 Facelift", "yearFrom": 1999, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "416",
+      "generations": [
+        { "name": "R8", "yearFrom": 1990, "yearTo": 1995 },
+        { "name": "R3", "yearFrom": 1995, "yearTo": 1999 },
+        { "name": "R3 Facelift", "yearFrom": 1999, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "620",
+      "generations": [
+        { "name": "R17", "yearFrom": 1993, "yearTo": 1999 },
+        { "name": "R17 Facelift", "yearFrom": 1999, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "75",
+      "generations": [
+        { "name": "R40", "yearFrom": 1999, "yearTo": 2004 },
+        { "name": "R40 Facelift", "yearFrom": 2004, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "100",
+      "generations": [
+        { "name": "R3", "yearFrom": 1995, "yearTo": 1998 },
+        { "name": "R3 Facelift", "yearFrom": 1998, "yearTo": 2000 }
+      ]
+    },
+    {
+      "name": "45",
+      "generations": [
+        { "name": "R3", "yearFrom": 1999, "yearTo": 2004 },
+        { "name": "R3 Facelift", "yearFrom": 2004, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "600",
+      "generations": [
+        { "name": "HH-R", "yearFrom": 1993, "yearTo": 1999 }
+      ]
+    },
+    {
+      "name": "800",
+      "generations": [
+        { "name": "XX", "yearFrom": 1986, "yearTo": 1991 },
+        { "name": "XX Facelift", "yearFrom": 1991, "yearTo": 1999 }
+      ]
+    },
+    {
+      "name": "200 Coupe",
+      "generations": [
+        { "name": "R8", "yearFrom": 1992, "yearTo": 1995 }
+      ]
+    },
+    {
+      "name": "200 Cabriolet",
+      "generations": [
+        { "name": "R8", "yearFrom": 1992, "yearTo": 1995 }
+      ]
+    },
+    {
+      "name": "400 Tourer",
+      "generations": [
+        { "name": "R8", "yearFrom": 1990, "yearTo": 1995 },
+        { "name": "R3", "yearFrom": 1995, "yearTo": 1999 },
+        { "name": "R3 Facelift", "yearFrom": 1999, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "25 Streetwise",
+      "generations": [
+        { "name": "R3", "yearFrom": 2003, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "75 Tourer",
+      "generations": [
+        { "name": "R40", "yearFrom": 2001, "yearTo": 2004 },
+        { "name": "R40 Facelift", "yearFrom": 2004, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "Metro",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1980, "yearTo": 1990 },
+        { "name": "Second generation", "yearFrom": 1990, "yearTo": 1995 },
+        { "name": "R3", "yearFrom": 1995, "yearTo": 1998 }
+      ]
+    },
+    {
+      "name": "Montego",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1984, "yearTo": 1988 },
+        { "name": "Facelift", "yearFrom": 1988, "yearTo": 1995 }
+      ]
+    },
+    {
+      "name": "Maestro",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1983, "yearTo": 1990 },
+        { "name": "Facelift", "yearFrom": 1990, "yearTo": 1995 }
+      ]
+    },
+    {
+      "name": "Streetwise",
+      "generations": [
+        { "name": "R3", "yearFrom": 2003, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "P4",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1949, "yearTo": 1964 }
+      ]
+    },
+    {
+      "name": "P5",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1958, "yearTo": 1967 },
+        { "name": "P5B", "yearFrom": 1967, "yearTo": 1973 }
+      ]
+    },
+    {
+      "name": "P6",
+      "generations": [
+        { "name": "2000/2200", "yearFrom": 1963, "yearTo": 1976 },
+        { "name": "3500", "yearFrom": 1968, "yearTo": 1976 }
+      ]
+    },
+    {
+      "name": "SD1",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1976, "yearTo": 1986 }
+      ]
+    }
+  ]
+},
+{
+  "brand": "Smart",
+  "models": [
+    {
+      "name": "Cabrio",
+      "generations": [
+        { "name": "Fortwo Cabrio (450)", "yearFrom": 2000, "yearTo": 2007 },
+        { "name": "Fortwo Cabrio (451)", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "Fortwo Cabrio (453)", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "City-Coupé",
+      "generations": [
+        { "name": "Fortwo (450)", "yearFrom": 1998, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Compact Pulse",
+      "generations": [
+        { "name": "Fortwo (450)", "yearFrom": 1998, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Forfour",
+      "generations": [
+        { "name": "First generation (454)", "yearFrom": 2004, "yearTo": 2006 },
+        { "name": "Second generation (453)", "yearFrom": 2014, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "Fortwo cabrio",
+      "generations": [
+        { "name": "Fortwo Cabrio (450)", "yearFrom": 2000, "yearTo": 2007 },
+        { "name": "Fortwo Cabrio (451)", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "Fortwo Cabrio (453)", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Fortwo coupé",
+      "generations": [
+        { "name": "Fortwo (450)", "yearFrom": 1998, "yearTo": 2007 },
+        { "name": "Fortwo (451)", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "Fortwo (453)", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Roadster",
+      "generations": [
+        { "name": "Roadster (452)", "yearFrom": 2003, "yearTo": 2005 },
+        { "name": "Roadster Coupé (452)", "yearFrom": 2003, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "Crossblade",
+      "generations": [
+        { "name": "Crossblade (450)", "yearFrom": 2002, "yearTo": 2002 }
+      ]
+    },
+    {
+      "name": "Roadster-Coupé",
+      "generations": [
+        { "name": "Roadster Coupé (452)", "yearFrom": 2003, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "Fortwo electric drive",
+      "generations": [
+        { "name": "Fortwo ED (451)", "yearFrom": 2009, "yearTo": 2014 },
+        { "name": "Fortwo ED (453)", "yearFrom": 2017, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Fortwo BRABUS",
+      "generations": [
+        { "name": "Fortwo BRABUS (450)", "yearFrom": 2003, "yearTo": 2007 },
+        { "name": "Fortwo BRABUS (451)", "yearFrom": 2008, "yearTo": 2014 },
+        { "name": "Fortwo BRABUS (453)", "yearFrom": 2015, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Fortwo K",
+      "generations": [
+        { "name": "Fortwo (450)", "yearFrom": 2002, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Fortwo Passion",
+      "generations": [
+        { "name": "Fortwo (450)", "yearFrom": 1998, "yearTo": 2007 },
+        { "name": "Fortwo (451)", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "Fortwo (453)", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Fortwo Pure",
+      "generations": [
+        { "name": "Fortwo (450)", "yearFrom": 1998, "yearTo": 2007 },
+        { "name": "Fortwo (451)", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "Fortwo (453)", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Fortwo Pulse",
+      "generations": [
+        { "name": "Fortwo (450)", "yearFrom": 1998, "yearTo": 2007 },
+        { "name": "Fortwo (451)", "yearFrom": 2007, "yearTo": 2014 },
+        { "name": "Fortwo (453)", "yearFrom": 2014, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Fortwo Prime",
+      "generations": [
+        { "name": "Fortwo (450)", "yearFrom": 2002, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Forfour BRABUS",
+      "generations": [
+        { "name": "Forfour BRABUS (453)", "yearFrom": 2015, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "Forfour electric drive",
+      "generations": [
+        { "name": "Forfour ED (453)", "yearFrom": 2017, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "Forfour Prime",
+      "generations": [
+        { "name": "Forfour (454)", "yearFrom": 2004, "yearTo": 2006 }
+      ]
+    },
+    {
+      "name": "Forfour Pulse",
+      "generations": [
+        { "name": "Forfour (454)", "yearFrom": 2004, "yearTo": 2006 },
+        { "name": "Forfour (453)", "yearFrom": 2014, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "Forfour Passion",
+      "generations": [
+        { "name": "Forfour (454)", "yearFrom": 2004, "yearTo": 2006 },
+        { "name": "Forfour (453)", "yearFrom": 2014, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "Roadster BRABUS",
+      "generations": [
+        { "name": "Roadster BRABUS (452)", "yearFrom": 2003, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "Fortwo EQ",
+      "generations": [
+        { "name": "Fortwo EQ (453)", "yearFrom": 2017, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Forfour EQ",
+      "generations": [
+        { "name": "Forfour EQ (453)", "yearFrom": 2017, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "#1",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2022, "yearTo": null }
+      ]
+    }
+  ]
+},
   {
     "brand": "Acura",
     "models": [
