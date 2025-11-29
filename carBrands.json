@@ -9288,150 +9288,890 @@
     }
   ]
 },
-  {
-    "brand": "Acura",
-    "models": [
-      { "name": "CL", "generations": [] },
-      { "name": "EL", "generations": [] },
-      { "name": "ILX", "generations": [] },
-      { "name": "Integra", "generations": [] },
-      { "name": "Legend", "generations": [] },
-      { "name": "MDX", "generations": [] },
-      { "name": "NSX", "generations": [] },
-      { "name": "RDX", "generations": [] },
-      { "name": "RL", "generations": [] },
-      { "name": "RLX", "generations": [] },
-      { "name": "RSX", "generations": [] },
-      { "name": "SLX", "generations": [] },
-      { "name": "TL", "generations": [] },
-      { "name": "TLX", "generations": [] },
-      { "name": "TSX", "generations": [] },
-      { "name": "Vigor", "generations": [] },
-      { "name": "ZDX", "generations": [] }
-    ]
-  },
-  {
-    "brand": "Bentley",
-    "models": [
-      { "name": "Arnage", "generations": [] },
-      { "name": "Azure", "generations": [] },
-      { "name": "Bentayga", "generations": [] },
-      { "name": "Brooklands", "generations": [] },
-      { "name": "Continental", "generations": [] },
-      { "name": "Continental GT", "generations": [] },
-      { "name": "Continental GTC", "generations": [] },
-      { "name": "Continental Flying Spur", "generations": [] },
-      { "name": "Eight", "generations": [] },
-      { "name": "Flying Spur", "generations": [] },
-      { "name": "Mulsanne", "generations": [] },
-      { "name": "Turbo R", "generations": [] },
-      { "name": "Turbo RT", "generations": [] }
-    ]
-  },
-  {
-    "brand": "Buick",
-    "models": [
-      { "name": "Apollo", "generations": [] },
-      { "name": "Cascada", "generations": [] },
-      { "name": "Century", "generations": [] },
-      { "name": "Electra", "generations": [] },
-      { "name": "Enclave", "generations": [] },
-      { "name": "Encore", "generations": [] },
-      { "name": "Encore GX", "generations": [] },
-      { "name": "Envision", "generations": [] },
-      { "name": "LaCrosse", "generations": [] },
-      { "name": "LeSabre", "generations": [] },
-      { "name": "Lucerne", "generations": [] },
-      { "name": "Park Avenue", "generations": [] },
-      { "name": "Rainier", "generations": [] },
-      { "name": "Reatta", "generations": [] },
-      { "name": "Regal", "generations": [] },
-      { "name": "Rendezvous", "generations": [] },
-      { "name": "Riviera", "generations": [] },
-      { "name": "Roadmaster", "generations": [] },
-      { "name": "Skylark", "generations": [] },
-      { "name": "Special", "generations": [] },
-      { "name": "Terraza", "generations": [] },
-      { "name": "Verano", "generations": [] }
-    ]
-  },
-  {
-    "brand": "Lada",
-    "models": [
-      { "name": "110", "generations": [] },
-      { "name": "111", "generations": [] },
-      { "name": "112", "generations": [] },
-      { "name": "1200", "generations": [] },
-      { "name": "1300", "generations": [] },
-      { "name": "1500", "generations": [] },
-      { "name": "1600", "generations": [] },
-      { "name": "2101", "generations": [] },
-      { "name": "2102", "generations": [] },
-      { "name": "2103", "generations": [] },
-      { "name": "2104", "generations": [] },
-      { "name": "2105", "generations": [] },
-      { "name": "2106", "generations": [] },
-      { "name": "2107", "generations": [] },
-      { "name": "2108", "generations": [] },
-      { "name": "2109", "generations": [] },
-      { "name": "21099", "generations": [] },
-      { "name": "2110", "generations": [] },
-      { "name": "2111", "generations": [] },
-      { "name": "2112", "generations": [] },
-      { "name": "2113", "generations": [] },
-      { "name": "2114", "generations": [] },
-      { "name": "2115", "generations": [] },
-      { "name": "Granta", "generations": [] },
-      { "name": "Kalina", "generations": [] },
-      { "name": "Largus", "generations": [] },
-      { "name": "Niva", "generations": [] },
-      { "name": "Niva Legend", "generations": [] },
-      { "name": "Priora", "generations": [] },
-      { "name": "Samara", "generations": [] },
-      { "name": "Vesta", "generations": [] },
-      { "name": "XRAY", "generations": [] }
-    ]
-  },
-  {
-    "brand": "Tesla",
-    "models": [
-      { "name": "Model 3", "generations": [] },
-      { "name": "Model S", "generations": [] },
-      { "name": "Model X", "generations": [] },
-      { "name": "Model Y", "generations": [] },
-      { "name": "Cybertruck", "generations": [] },
-      { "name": "Roadster", "generations": [] },
-      { "name": "Semi", "generations": [] }
-    ]
-  },
-  {
-    "brand": "BYD",
-    "models": [
-      { "name": "e5", "generations": [] },
-      { "name": "e6", "generations": [] },
-      { "name": "F0", "generations": [] },
-      { "name": "F3", "generations": [] },
-      { "name": "F3DM", "generations": [] },
-      { "name": "F6", "generations": [] },
-      { "name": "Flyer", "generations": [] },
-      { "name": "G3", "generations": [] },
-      { "name": "G5", "generations": [] },
-      { "name": "G6", "generations": [] },
-      { "name": "Han", "generations": [] },
-      { "name": "L3", "generations": [] },
-      { "name": "M6", "generations": [] },
-      { "name": "Qin", "generations": [] },
-      { "name": "S6", "generations": [] },
-      { "name": "S7", "generations": [] },
-      { "name": "Seal", "generations": [] },
-      { "name": "Song", "generations": [] },
-      { "name": "Song Max", "generations": [] },
-      { "name": "Song Plus", "generations": [] },
-      { "name": "Tang", "generations": [] },
-      { "name": "Yuan", "generations": [] },
-      { "name": "Yuan Plus", "generations": [] }
-    ]
-  },
+{
+  "brand": "Acura",
+  "models": [
+    {
+      "name": "CL",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1997, "yearTo": 1999 },
+        { "name": "Second generation", "yearFrom": 2001, "yearTo": 2003 }
+      ]
+    },
+    {
+      "name": "EL",
+      "generations": [
+        { "name": "Acura EL", "yearFrom": 1997, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "ILX",
+      "generations": [
+        { "name": "Acura ILX", "yearFrom": 2013, "yearTo": 2022 }
+      ]
+    },
+    {
+      "name": "Integra",
+      "generations": [
+        { "name": "Integra (sedan/hatchback)", "yearFrom": 1986, "yearTo": 2001 },
+        { "name": "Integra (hatchback, revived)", "yearFrom": 2022, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Legend",
+      "generations": [
+        { "name": "Acura Legend", "yearFrom": 1986, "yearTo": 1995 }
+      ]
+    },
+    {
+      "name": "MDX",
+      "generations": [
+        { "name": "First generation MDX", "yearFrom": 2001, "yearTo": 2006 },
+        { "name": "Second generation MDX", "yearFrom": 2007, "yearTo": 2013 },
+        { "name": "Third generation MDX", "yearFrom": 2014, "yearTo": 2020 },
+        { "name": "Fourth generation MDX", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "NSX",
+      "generations": [
+        { "name": "First generation NSX", "yearFrom": 1990, "yearTo": 2005 },
+        { "name": "Second generation NSX", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "RDX",
+      "generations": [
+        { "name": "First generation RDX", "yearFrom": 2007, "yearTo": 2012 },
+        { "name": "Second generation RDX", "yearFrom": 2013, "yearTo": 2018 },
+        { "name": "Third generation RDX", "yearFrom": 2019, "yearTo": null }
+      ]
+    },
+    {
+      "name": "RL",
+      "generations": [
+        { "name": "First generation RL", "yearFrom": 1996, "yearTo": 2004 },
+        { "name": "Second generation RL", "yearFrom": 2005, "yearTo": 2012 }
+      ]
+    },
+    {
+      "name": "RLX",
+      "generations": [
+        { "name": "Acura RLX", "yearFrom": 2014, "yearTo": 2020 }
+      ]
+    },
+    {
+      "name": "RSX",
+      "generations": [
+        { "name": "Acura RSX", "yearFrom": 2002, "yearTo": 2006 }
+      ]
+    },
+    {
+      "name": "SLX",
+      "generations": [
+        { "name": "Acura SLX", "yearFrom": 1996, "yearTo": 1999 }
+      ]
+    },
+    {
+      "name": "TL",
+      "generations": [
+        { "name": "First generation TL", "yearFrom": 1996, "yearTo": 1998 },
+        { "name": "Second generation TL", "yearFrom": 1999, "yearTo": 2003 },
+        { "name": "Third generation TL", "yearFrom": 2004, "yearTo": 2008 },
+        { "name": "Fourth generation TL", "yearFrom": 2009, "yearTo": 2014 }
+      ]
+    },
+    {
+      "name": "TLX",
+      "generations": [
+        { "name": "First generation TLX", "yearFrom": 2015, "yearTo": 2020 },
+        { "name": "Second generation TLX", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "TSX",
+      "generations": [
+        { "name": "First generation TSX", "yearFrom": 2004, "yearTo": 2008 },
+        { "name": "Second generation TSX", "yearFrom": 2009, "yearTo": 2014 }
+      ]
+    },
+    {
+      "name": "Vigor",
+      "generations": [
+        { "name": "Acura Vigor", "yearFrom": 1992, "yearTo": 1994 }
+      ]
+    },
+    {
+      "name": "ZDX",
+      "generations": [
+        { "name": "First generation ZDX", "yearFrom": 2009, "yearTo": 2013 },
+        { "name": "Second generation ZDX (revived)", "yearFrom": 2024, "yearTo": null }
+      ]
+    }
+  ]
+},
+{
+  "brand": "Bentley",
+  "models": [
+    {
+      "name": "Arnage",
+      "generations": [
+        { "name": "Arnage (Green Label / Red Label)", "yearFrom": 1998, "yearTo": 2009 }
+      ]
+    },
+    {
+      "name": "Azure",
+      "generations": [
+        { "name": "First generation Azure", "yearFrom": 1995, "yearTo": 2003 },
+        { "name": "Second generation Azure", "yearFrom": 2006, "yearTo": 2009 }
+      ]
+    },
+    {
+      "name": "Bentayga",
+      "generations": [
+        { "name": "First generation Bentayga", "yearFrom": 2016, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Brooklands",
+      "generations": [
+        { "name": "Brooklands (large coupe)", "yearFrom": 2008, "yearTo": 2011 }
+      ]
+    },
+    {
+      "name": "Continental",
+      "generations": [
+        { "name": "Continental R", "yearFrom": 1991, "yearTo": 2003 },
+        { "name": "Continental T", "yearFrom": 1996, "yearTo": 2002 }
+      ]
+    },
+    {
+      "name": "Continental GT",
+      "generations": [
+        { "name": "First generation Continental GT", "yearFrom": 2003, "yearTo": 2011 },
+        { "name": "Second generation Continental GT", "yearFrom": 2011, "yearTo": 2018 },
+        { "name": "Third generation Continental GT", "yearFrom": 2018, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Continental GTC",
+      "generations": [
+        { "name": "First generation Continental GTC", "yearFrom": 2006, "yearTo": 2011 },
+        { "name": "Second generation Continental GTC", "yearFrom": 2011, "yearTo": 2018 },
+        { "name": "Third generation Continental GTC", "yearFrom": 2018, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Continental Flying Spur",
+      "generations": [
+        { "name": "Continental Flying Spur", "yearFrom": 2005, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "Eight",
+      "generations": [
+        { "name": "Bentley Eight", "yearFrom": 1984, "yearTo": 1992 }
+      ]
+    },
+    {
+      "name": "Flying Spur",
+      "generations": [
+        { "name": "First generation Flying Spur", "yearFrom": 2013, "yearTo": 2019 },
+        { "name": "Second generation Flying Spur", "yearFrom": 2019, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Mulsanne",
+      "generations": [
+        { "name": "Mulsanne (modern)", "yearFrom": 2010, "yearTo": 2020 }
+      ]
+    },
+    {
+      "name": "Turbo R",
+      "generations": [
+        { "name": "Bentley Turbo R", "yearFrom": 1985, "yearTo": 1999 }
+      ]
+    },
+    {
+      "name": "Turbo RT",
+      "generations": [
+        { "name": "Bentley Turbo RT", "yearFrom": 1997, "yearTo": 1998 }
+      ]
+    }
+  ]
+},
+{
+  "brand": "Buick",
+  "models": [
+    {
+      "name": "Apollo",
+      "generations": [
+        { "name": "Buick Apollo", "yearFrom": 1973, "yearTo": 1975 }
+      ]
+    },
+    {
+      "name": "Cascada",
+      "generations": [
+        { "name": "Buick Cascada", "yearFrom": 2016, "yearTo": 2019 }
+      ]
+    },
+    {
+      "name": "Century",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1936, "yearTo": 1942 },
+        { "name": "Second generation", "yearFrom": 1954, "yearTo": 1958 },
+        { "name": "Third generation", "yearFrom": 1973, "yearTo": 1981 },
+        { "name": "Fourth generation", "yearFrom": 1982, "yearTo": 1996 },
+        { "name": "Fifth generation", "yearFrom": 1997, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "Electra",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1959, "yearTo": 1960 },
+        { "name": "Second generation", "yearFrom": 1961, "yearTo": 1964 },
+        { "name": "Third generation", "yearFrom": 1965, "yearTo": 1970 },
+        { "name": "Fourth generation", "yearFrom": 1971, "yearTo": 1976 },
+        { "name": "Fifth generation", "yearFrom": 1977, "yearTo": 1985 },
+        { "name": "Sixth generation", "yearFrom": 1985, "yearTo": 1990 }
+      ]
+    },
+    {
+      "name": "Enclave",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2008, "yearTo": 2017 },
+        { "name": "Second generation", "yearFrom": 2018, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Encore",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2013, "yearTo": 2022 }
+      ]
+    },
+    {
+      "name": "Encore GX",
+      "generations": [
+        { "name": "Encore GX", "yearFrom": 2020, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Envision",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2016, "yearTo": 2020 },
+        { "name": "Second generation", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "LaCrosse",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2005, "yearTo": 2009 },
+        { "name": "Second generation", "yearFrom": 2010, "yearTo": 2016 },
+        { "name": "Third generation", "yearFrom": 2017, "yearTo": 2019 }
+      ]
+    },
+    {
+      "name": "LeSabre",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1959, "yearTo": 1960 },
+        { "name": "Second generation", "yearFrom": 1961, "yearTo": 1964 },
+        { "name": "Third generation", "yearFrom": 1965, "yearTo": 1970 },
+        { "name": "Fourth generation", "yearFrom": 1971, "yearTo": 1976 },
+        { "name": "Fifth generation", "yearFrom": 1977, "yearTo": 1985 },
+        { "name": "Sixth generation", "yearFrom": 1986, "yearTo": 1991 },
+        { "name": "Seventh generation", "yearFrom": 1992, "yearTo": 1999 },
+        { "name": "Eighth generation", "yearFrom": 2000, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "Lucerne",
+      "generations": [
+        { "name": "Buick Lucerne", "yearFrom": 2006, "yearTo": 2011 }
+      ]
+    },
+    {
+      "name": "Park Avenue",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1991, "yearTo": 1996 },
+        { "name": "Second generation", "yearFrom": 1997, "yearTo": 2005 }
+      ]
+    },
+    {
+      "name": "Rainier",
+      "generations": [
+        { "name": "Buick Rainier", "yearFrom": 2004, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Reatta",
+      "generations": [
+        { "name": "Buick Reatta", "yearFrom": 1988, "yearTo": 1991 }
+      ]
+    },
+    {
+      "name": "Regal",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1973, "yearTo": 1977 },
+        { "name": "Second generation", "yearFrom": 1978, "yearTo": 1987 },
+        { "name": "Third generation", "yearFrom": 1988, "yearTo": 1996 },
+        { "name": "Fourth generation", "yearFrom": 1997, "yearTo": 2004 },
+        { "name": "Fifth generation", "yearFrom": 2009, "yearTo": 2017 },
+        { "name": "Sixth generation", "yearFrom": 2018, "yearTo": 2020 }
+      ]
+    },
+    {
+      "name": "Rendezvous",
+      "generations": [
+        { "name": "Buick Rendezvous", "yearFrom": 2002, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Riviera",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1963, "yearTo": 1965 },
+        { "name": "Second generation", "yearFrom": 1966, "yearTo": 1970 },
+        { "name": "Third generation", "yearFrom": 1971, "yearTo": 1973 },
+        { "name": "Fourth generation", "yearFrom": 1974, "yearTo": 1976 },
+        { "name": "Fifth generation", "yearFrom": 1977, "yearTo": 1978 },
+        { "name": "Sixth generation", "yearFrom": 1979, "yearTo": 1985 },
+        { "name": "Seventh generation", "yearFrom": 1986, "yearTo": 1993 },
+        { "name": "Eighth generation", "yearFrom": 1995, "yearTo": 1999 }
+      ]
+    },
+    {
+      "name": "Roadmaster",
+      "generations": [
+        { "name": "First generation (classic)", "yearFrom": 1936, "yearTo": 1958 },
+        { "name": "Second generation (revived)", "yearFrom": 1991, "yearTo": 1996 }
+      ]
+    },
+    {
+      "name": "Skylark",
+      "generations": [
+        { "name": "First generation", "yearFrom": 1953, "yearTo": 1954 },
+        { "name": "Second generation", "yearFrom": 1961, "yearTo": 1963 },
+        { "name": "Third generation", "yearFrom": 1964, "yearTo": 1972 },
+        { "name": "Fourth generation", "yearFrom": 1975, "yearTo": 1979 },
+        { "name": "Fifth generation", "yearFrom": 1980, "yearTo": 1985 },
+        { "name": "Sixth generation", "yearFrom": 1986, "yearTo": 1998 }
+      ]
+    },
+    {
+      "name": "Special",
+      "generations": [
+        { "name": "Buick Special", "yearFrom": 1936, "yearTo": 1958 },
+        { "name": "Revived Special", "yearFrom": 1961, "yearTo": 1969 }
+      ]
+    },
+    {
+      "name": "Terraza",
+      "generations": [
+        { "name": "Buick Terraza", "yearFrom": 2005, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "Verano",
+      "generations": [
+        { "name": "First generation (NA)", "yearFrom": 2012, "yearTo": 2017 },
+        { "name": "Second generation (China)", "yearFrom": 2015, "yearTo": null }
+      ]
+    }
+  ]
+},
+{
+  "brand": "Lada",
+  "models": [
+    {
+      "name": "110",
+      "generations": [
+        { "name": "Lada 110 (VAZ-2110)", "yearFrom": 1995, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "111",
+      "generations": [
+        { "name": "Lada 111 (VAZ-2111)", "yearFrom": 1998, "yearTo": 2009 }
+      ]
+    },
+    {
+      "name": "112",
+      "generations": [
+        { "name": "Lada 112 (VAZ-2112)", "yearFrom": 2000, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "1200",
+      "generations": [
+        { "name": "Lada 1200 (VAZ-2101 export name)", "yearFrom": 1970, "yearTo": 1988 }
+      ]
+    },
+    {
+      "name": "1300",
+      "generations": [
+        { "name": "Lada 1300 (VAZ-2101 / 21011 variants)", "yearFrom": 1974, "yearTo": 1988 }
+      ]
+    },
+    {
+      "name": "1500",
+      "generations": [
+        { "name": "Lada 1500 (VAZ-2103/2106 export names)", "yearFrom": 1972, "yearTo": 2006 }
+      ]
+    },
+    {
+      "name": "1600",
+      "generations": [
+        { "name": "Lada 1600 (VAZ-2106 export name)", "yearFrom": 1976, "yearTo": 2006 }
+      ]
+    },
+    {
+      "name": "2101",
+      "generations": [
+        { "name": "VAZ-2101", "yearFrom": 1970, "yearTo": 1988 }
+      ]
+    },
+    {
+      "name": "2102",
+      "generations": [
+        { "name": "VAZ-2102", "yearFrom": 1971, "yearTo": 1986 }
+      ]
+    },
+    {
+      "name": "2103",
+      "generations": [
+        { "name": "VAZ-2103", "yearFrom": 1972, "yearTo": 1984 }
+      ]
+    },
+    {
+      "name": "2104",
+      "generations": [
+        { "name": "VAZ-2104", "yearFrom": 1984, "yearTo": 2012 }
+      ]
+    },
+    {
+      "name": "2105",
+      "generations": [
+        { "name": "VAZ-2105", "yearFrom": 1980, "yearTo": 2010 }
+      ]
+    },
+    {
+      "name": "2106",
+      "generations": [
+        { "name": "VAZ-2106", "yearFrom": 1976, "yearTo": 2006 }
+      ]
+    },
+    {
+      "name": "2107",
+      "generations": [
+        { "name": "VAZ-2107", "yearFrom": 1982, "yearTo": 2012 }
+      ]
+    },
+    {
+      "name": "2108",
+      "generations": [
+        { "name": "VAZ-2108 (Samara 3-door)", "yearFrom": 1984, "yearTo": 2004 }
+      ]
+    },
+    {
+      "name": "2109",
+      "generations": [
+        { "name": "VAZ-2109 (Samara 5-door)", "yearFrom": 1987, "yearTo": 2004 }
+      ]
+    },
+    {
+      "name": "21099",
+      "generations": [
+        { "name": "VAZ-21099 (Samara sedan)", "yearFrom": 1990, "yearTo": 2011 }
+      ]
+    },
+    {
+      "name": "2110",
+      "generations": [
+        { "name": "VAZ-2110 (Lada 110)", "yearFrom": 1995, "yearTo": 2007 }
+      ]
+    },
+    {
+      "name": "2111",
+      "generations": [
+        { "name": "VAZ-2111 (Lada 111)", "yearFrom": 1998, "yearTo": 2009 }
+      ]
+    },
+    {
+      "name": "2112",
+      "generations": [
+        { "name": "VAZ-2112 (Lada 112)", "yearFrom": 2000, "yearTo": 2008 }
+      ]
+    },
+    {
+      "name": "2113",
+      "generations": [
+        { "name": "VAZ-2113 (Samara hatchback)", "yearFrom": 2004, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "2114",
+      "generations": [
+        { "name": "VAZ-2114 (Samara hatchback)", "yearFrom": 2001, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "2115",
+      "generations": [
+        { "name": "VAZ-2115 (Samara sedan)", "yearFrom": 1997, "yearTo": 2012 }
+      ]
+    },
+    {
+      "name": "Granta",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2011, "yearTo": 2018 },
+        { "name": "Second generation (facelift)", "yearFrom": 2018, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Kalina",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2004, "yearTo": 2013 },
+        { "name": "Second generation", "yearFrom": 2013, "yearTo": 2018 }
+      ]
+    },
+    {
+      "name": "Largus",
+      "generations": [
+        { "name": "Largus (first)", "yearFrom": 2012, "yearTo": 2021 },
+        { "name": "Largus (second / facelift)", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Niva",
+      "generations": [
+        { "name": "VAZ-2121 (Niva Classic)", "yearFrom": 1977, "yearTo": 2020 },
+        { "name": "Niva Travel", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Niva Legend",
+      "generations": [
+        { "name": "Niva Legend", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Priora",
+      "generations": [
+        { "name": "Lada Priora", "yearFrom": 2007, "yearTo": 2018 }
+      ]
+    },
+    {
+      "name": "Samara",
+      "generations": [
+        { "name": "First generation (2108/2109/21099)", "yearFrom": 1984, "yearTo": 2004 },
+        { "name": "Second generation (2113/2114/2115)", "yearFrom": 1997, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "Vesta",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2015, "yearTo": 2022 },
+        { "name": "Second generation (facelift)", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "XRAY",
+      "generations": [
+        { "name": "Lada XRAY", "yearFrom": 2016, "yearTo": 2022 }
+      ]
+    }
+  ]
+},
+{
+  "brand": "Tesla",
+  "models": [
+    {
+      "name": "Model 3",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2017, "yearTo": 2020 },
+        { "name": "Facelift", "yearFrom": 2020, "yearTo": 2023 },
+        { "name": "Highland", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model S",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2012, "yearTo": 2016 },
+        { "name": "Facelift", "yearFrom": 2016, "yearTo": 2021 },
+        { "name": "Plaid", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model X",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2015, "yearTo": 2021 },
+        { "name": "Plaid", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model Y",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2020, "yearTo": 2023 },
+        { "name": "Juniper", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Cybertruck",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Roadster",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2008, "yearTo": 2012 },
+        { "name": "Second generation", "yearFrom": 2024, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Semi",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2022, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model 3 Long Range",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2017, "yearTo": 2020 },
+        { "name": "Facelift", "yearFrom": 2020, "yearTo": 2023 },
+        { "name": "Highland", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model 3 Performance",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2018, "yearTo": 2020 },
+        { "name": "Facelift", "yearFrom": 2020, "yearTo": 2023 },
+        { "name": "Highland", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model S Plaid",
+      "generations": [
+        { "name": "Plaid", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model S Long Range",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2012, "yearTo": 2016 },
+        { "name": "Facelift", "yearFrom": 2016, "yearTo": 2021 },
+        { "name": "Refresh", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model X Plaid",
+      "generations": [
+        { "name": "Plaid", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model X Long Range",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2015, "yearTo": 2021 },
+        { "name": "Refresh", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model Y Long Range",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2020, "yearTo": 2023 },
+        { "name": "Juniper", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model Y Performance",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2020, "yearTo": 2023 },
+        { "name": "Juniper", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model 3 Standard Range Plus",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2019, "yearTo": 2020 },
+        { "name": "Facelift", "yearFrom": 2020, "yearTo": 2023 },
+        { "name": "Highland", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Model S Performance",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2012, "yearTo": 2016 },
+        { "name": "Facelift", "yearFrom": 2016, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "Model X Performance",
+      "generations": [
+        { "name": "First generation", "yearFrom": 2015, "yearTo": 2021 }
+      ]
+    }
+  ]
+},
+{
+  "brand": "BYD",
+  "models": [
+    {
+      "name": "e5",
+      "generations": [
+        { "name": "e5 300", "yearFrom": 2015, "yearTo": 2018 },
+        { "name": "e5 450", "yearFrom": 2018, "yearTo": 2021 }
+      ]
+    },
+    {
+      "name": "e6",
+      "generations": [
+        { "name": "e6 400", "yearFrom": 2010, "yearTo": 2021 },
+        { "name": "e6 Cross", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "F0",
+      "generations": [
+        { "name": "F0", "yearFrom": 2008, "yearTo": 2015 },
+        { "name": "F0 EV", "yearFrom": 2015, "yearTo": 2019 }
+      ]
+    },
+    {
+      "name": "F3",
+      "generations": [
+        { "name": "F3", "yearFrom": 2005, "yearTo": 2009 },
+        { "name": "F3 R", "yearFrom": 2009, "yearTo": 2013 },
+        { "name": "F3 III", "yearFrom": 2013, "yearTo": 2016 },
+        { "name": "F3 New", "yearFrom": 2016, "yearTo": 2020 },
+        { "name": "F3 Classic", "yearFrom": 2020, "yearTo": null }
+      ]
+    },
+    {
+      "name": "F3DM",
+      "generations": [
+        { "name": "F3DM", "yearFrom": 2008, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "F6",
+      "generations": [
+        { "name": "F6", "yearFrom": 2007, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "Flyer",
+      "generations": [
+        { "name": "Flyer", "yearFrom": 2005, "yearTo": 2011 }
+      ]
+    },
+    {
+      "name": "G3",
+      "generations": [
+        { "name": "G3", "yearFrom": 2009, "yearTo": 2013 }
+      ]
+    },
+    {
+      "name": "G5",
+      "generations": [
+        { "name": "G5", "yearFrom": 2014, "yearTo": 2017 }
+      ]
+    },
+    {
+      "name": "G6",
+      "generations": [
+        { "name": "G6", "yearFrom": 2011, "yearTo": 2015 }
+      ]
+    },
+    {
+      "name": "Han",
+      "generations": [
+        { "name": "Han EV", "yearFrom": 2020, "yearTo": 2023 },
+        { "name": "Han Champion Edition", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "L3",
+      "generations": [
+        { "name": "L3", "yearFrom": 2012, "yearTo": 2016 }
+      ]
+    },
+    {
+      "name": "M6",
+      "generations": [
+        { "name": "M6", "yearFrom": 2010, "yearTo": 2017 }
+      ]
+    },
+    {
+      "name": "Qin",
+      "generations": [
+        { "name": "Qin Pro", "yearFrom": 2013, "yearTo": 2018 },
+        { "name": "Qin Plus", "yearFrom": 2018, "yearTo": 2021 },
+        { "name": "Qin Champion", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "S6",
+      "generations": [
+        { "name": "S6", "yearFrom": 2009, "yearTo": 2015 }
+      ]
+    },
+    {
+      "name": "S7",
+      "generations": [
+        { "name": "S7", "yearFrom": 2014, "yearTo": 2018 }
+      ]
+    },
+    {
+      "name": "Seal",
+      "generations": [
+        { "name": "Seal", "yearFrom": 2022, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Song",
+      "generations": [
+        { "name": "Song", "yearFrom": 2015, "yearTo": 2018 },
+        { "name": "Song Pro", "yearFrom": 2018, "yearTo": 2021 },
+        { "name": "Song Plus EV", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Song Max",
+      "generations": [
+        { "name": "Song Max", "yearFrom": 2017, "yearTo": 2021 },
+        { "name": "Song Max DM-i", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Song Plus",
+      "generations": [
+        { "name": "Song Plus", "yearFrom": 2020, "yearTo": 2023 },
+        { "name": "Song Plus Champion", "yearFrom": 2023, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Tang",
+      "generations": [
+        { "name": "Tang", "yearFrom": 2015, "yearTo": 2018 },
+        { "name": "Tang DM", "yearFrom": 2018, "yearTo": 2021 },
+        { "name": "Tang EV", "yearFrom": 2021, "yearTo": null }
+      ]
+    },
+    {
+      "name": "Yuan",
+      "generations": [
+        { "name": "Yuan", "yearFrom": 2015, "yearTo": 2019 }
+      ]
+    },
+    {
+      "name": "Yuan Plus",
+      "generations": [
+        { "name": "Yuan Plus", "yearFrom": 2022, "yearTo": null }
+      ]
+    }
+  ]
+},
   {
     "brand": "Cadillac",
     "models": [
