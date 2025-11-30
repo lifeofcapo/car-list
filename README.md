@@ -76,43 +76,6 @@ Catalog of auto parts and car care products.
 *   **Automotive Portals**: Enriching content with structured data
 *   **Mobile Applications**: For taxi services, car sharing, maintenance
 *   **Analytics & Research**: Automotive market analysis
-
----
-
-## 🚀 Quick Start
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-
-2.  **Use data in your project**
-
-    **JavaScript example:**
-    ```javascript
-    const carBrands = require('./carBrands.json');
-    const carParts = require('./carParts.json');
-
-    // Find all Audi models
-    const audi = carBrands.find(brand => brand.brand === "Audi");
-    console.log(audi.models);
-
-    // Find part by slug
-    const absorber = carParts.find(part => part.slug === "absorber-bampera");
-    console.log(absorber.name);
-    ```
-
-    **Python example:**
-    ```python
-    import json
-
-    with open('carBrands.json', 'r') as f:
-        car_brands = json.load(f)
-    
-    with open('carParts.json', 'r') as f:
-        car_parts = json.load(f)
-    ```
-
 ---
 
 ## 📊 Data Coverage
@@ -138,11 +101,3 @@ Contributions are welcome! Feel free to:
 - Improve data accuracy
 
 ---
-
-## 📄 License
-
-MIT License - see the LICENSE file for details.
-
----
-
-**Happy coding!** 🚀
