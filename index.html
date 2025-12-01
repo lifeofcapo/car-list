@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Car API - Documentation</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
     </style>
@@ -15,6 +18,9 @@
             <div class="logo">
                 <span>🚗</span> Car API
             </div>
+
+            <div class="hamburger" onclick="toggleMenu()">☰</div>
+
             <div class="nav-links">
                 <a href="#quickstart">Quick Start</a>
                 <a href="#endpoints">Endpoints</a>
@@ -28,7 +34,7 @@
                     </div>
                     <a href="https://github.com/lifeofcapo/car-api" class="github-btn" target="_blank">
                         <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-                            <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
                         </svg>
                         Star on GitHub
                     </a>
@@ -39,7 +45,7 @@
 
     <main>
         <section class="hero">
-            <div class="container">
+            <div class="container ">
                 <div class="badge">
                     <span>✨</span> Free & Open Source
                 </div>
@@ -52,7 +58,7 @@
             </div>
         </section>
 
-        <section id="endpoints" class="section">
+        <section id="endpoints" class="section fade-in">
             <div class="container">
                 <div class="section-header">
                     <h2>API Endpoints</h2>
@@ -88,7 +94,7 @@
                         </div>
                     </div>
 
-                    <div class="endpoint-card">
+                    <div class="endpoint-card fade-in">
                         <div class="endpoint-header">
                             <span class="method-badge">GET</span>
                             <h3>Car Parts</h3>
@@ -111,7 +117,39 @@
             </div>
         </section>
 
-        <section id="quickstart" class="section">
+        <section class="section fade-in" id="stats">
+            <div class="container">
+                <div class="section-header">
+                    <h2>API Statistics</h2>
+                    <p>Live data loaded from the API</p>
+                </div>
+
+                <div class="features-grid">
+                    <div class="feature-card"><h3 id="stat-brands">0 Brands</h3></div>
+                    <div class="feature-card"><h3 id="stat-models">0 Models</h3></div>
+                    <div class="feature-card"><h3 id="stat-parts">0 Parts</h3></div>
+                    <div class="feature-card"><h3 id="stat-response">0 ms Response</h3></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section fade-in" id="use-cases">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Use Cases</h2>
+                    <p>Real applications powered by this API</p>
+                </div>
+
+                <div class="features-grid">
+                    <div class="feature-card"><h3>Car Dealership Inventory</h3><p>Sync brands, models, and generations to manage stock.</p></div>
+                    <div class="feature-card"><h3>Auto Parts E-Commerce</h3><p>Map car generations to compatible parts.</p></div>
+                    <div class="feature-card"><h3>Vehicle Comparison Tools</h3><p>Use years & generations for detailed car comparisons.</p></div>
+                    <div class="feature-card"><h3>Maintenance Trackers</h3><p>Show compatible parts and model-specific data.</p></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="quickstart " class="section fade-in">
             <div class="container">
                 <div class="section-header">
                     <h2>Quick Start</h2>
@@ -124,7 +162,7 @@
                         <button class="copy-btn" onclick="copyCode(this)">Copy</button>
                     </div>
                     <div class="code-content">
-<pre><code>// Fetch all car brands
+<pre><code class="language-javascript">// Fetch all car brands
 fetch('https://lifeofcapo.github.io/car-api/car-brands.json')
   .then(response => response.json())
   .then(data => {
@@ -144,7 +182,7 @@ fetch('https://lifeofcapo.github.io/car-api/car-brands.json')
                         <button class="copy-btn" onclick="copyCode(this)">Copy</button>
                     </div>
                     <div class="code-content">
-<pre><code>import requests
+<pre><code class="language-javascript">import requests
 
 # Fetch car parts
 response = requests.get('https://lifeofcapo.github.io/car-api/car-parts.json')
@@ -158,7 +196,7 @@ print(f'Found {len(absorbers)} absorber parts')</code></pre>
             </div>
         </section>
 
-        <section id="examples" class="section">
+        <section id="examples" class="section fade-in">
             <div class="container">
                 <div class="section-header">
                     <h2>Advanced Examples</h2>
@@ -171,7 +209,7 @@ print(f'Found {len(absorbers)} absorber parts')</code></pre>
                         <button class="copy-btn" onclick="copyCode(this)">Copy</button>
                     </div>
                     <div class="code-content">
-<pre><code>async function findCarsByYear(year) {
+<pre><code class="language-javascript">async function findCarsByYear(year) {
   const response = await fetch('https://lifeofcapo.github.io/car-api/car-brands.json');
   const brands = await response.json();
   
@@ -209,7 +247,7 @@ findCarsByYear(2020).then(cars => {
                         <button class="copy-btn" onclick="copyCode(this)">Copy</button>
                     </div>
                     <div class="code-content">
-<pre><code>import { useState, useEffect } from 'react';
+<pre><code class="language-javascript">import { useState, useEffect } from 'react';
 
 function CarBrandSelector() {
   const [brands, setBrands] = useState([]);
@@ -251,7 +289,6 @@ function CarBrandSelector() {
     &lt;/div&gt;
   );
 }</code></pre>
-               
                     </div>
                 </div>
             </div>
@@ -265,7 +302,7 @@ function CarBrandSelector() {
                 </div>
 
                 <div class="features-grid">
-                    <div class="feature-card">
+                    <div class="feature-card fade-in">
                         <div class="feature-icon">
                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>
@@ -326,6 +363,17 @@ function CarBrandSelector() {
                     </div>
                 </div>
             </div>
+        </section>
+
+        <section class="section" id="try">
+        <div class="container">
+            <div class="section-header"><h2>Try It Now</h2></div>
+
+            <input id="demo-input" placeholder="Search brand... (e.g. Audi)" 
+                style="padding:12px;width:100%;max-width:400px;border-radius:8px;border:1px solid var(--border);background:var(--bg-secondary);color:white;">
+            
+            <pre class="json-code" id="demo-output" style="margin-top:20px;">{}</pre>
+        </div>
         </section>
     </main>
 
